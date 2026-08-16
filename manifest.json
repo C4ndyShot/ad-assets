@@ -1,0 +1,3791 @@
+[
+  {
+    "index": 1,
+    "filename": "b3-001-bottom.png",
+    "scene_prompt": "the book resting on a kitchen counter, a rolled architectural blueprint tube (closed) nearby, bright midday sun, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "EVERY PHASE. COVERED.",
+    "style": "bottom",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 2,
+    "filename": "b3-002-top_banner.png",
+    "scene_prompt": "the book resting on a wooden desk, a calculator nearby, soft morning window light, clean and orderly composition.",
+    "category": "office",
+    "caption": "BUILT FOR PEOPLE WHO SHOW UP EVERY DAY.",
+    "style": "top_banner",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 3,
+    "filename": "b3-003-corner_badge.png",
+    "scene_prompt": "the book resting on a kitchen island, a cordless drill nearby, warm desk lamp light, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "READ IT BEFORE YOU BREAK GROUND.",
+    "style": "corner_badge",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 4,
+    "filename": "b3-004-ribbon.png",
+    "scene_prompt": "the book resting on a wooden desk, a water bottle nearby, dramatic warm side lighting, rustic and lived-in atmosphere.",
+    "category": "office",
+    "caption": "START YOUR DAY WHERE THE BUILD STARTS.",
+    "style": "ribbon",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 5,
+    "filename": "b3-005-side_bar.png",
+    "scene_prompt": "the book resting on a stack of plywood sheets, a yellow hard hat nearby, natural daylight through a garage door, rustic and lived-in atmosphere.",
+    "category": "jobsite",
+    "caption": "ONE RUNG AT A TIME. ONE CHAPTER AT A TIME.",
+    "style": "side_bar",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 6,
+    "filename": "b3-006-color_block.png",
+    "scene_prompt": "the book resting on a plywood sawhorse table, a water bottle nearby, warm desk lamp light, modern and minimal atmosphere.",
+    "category": "jobsite",
+    "caption": "KNOW THE NUMBERS BEFORE THEY KNOW YOU DON'T.",
+    "style": "color_block",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 7,
+    "filename": "b3-007-stat_callout.png",
+    "scene_prompt": "the book resting on a basement workbench, a small toolbox nearby, soft afternoon light, shallow depth of field, blurred background.",
+    "category": "workshop",
+    "caption": "LUNCH BREAK READING THAT PAYS OFF.",
+    "style": "stat_callout",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 8,
+    "filename": "b3-008-review_badge.png",
+    "scene_prompt": "the book resting on a metal toolbox lid, a rolled-up tape measure nearby, overcast diffused daylight, modern and minimal atmosphere.",
+    "category": "workshop",
+    "caption": "PACK IT LIKE A TOOL. USE IT LIKE ONE.",
+    "style": "review_badge",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 9,
+    "filename": "b3-009-checklist.png",
+    "scene_prompt": "the book resting on a ladder rung, a hammer nearby, bright midday sun, shallow depth of field, blurred background.",
+    "category": "workshop",
+    "caption": "THE BOOK THAT GOT US HERE.",
+    "style": "checklist",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 10,
+    "filename": "b3-010-sticky_note.png",
+    "scene_prompt": "the book resting on a granite countertop, a stack of clean folded rags nearby, warm desk lamp light, cozy and warm atmosphere.",
+    "category": "home",
+    "caption": "SKIP THE FORUMS. READ THE BOOK.",
+    "style": "sticky_note",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 11,
+    "filename": "b3-011-double_banner.png",
+    "scene_prompt": "the book resting on a wheelbarrow edge, a stainless steel travel mug nearby, soft morning window light, shallow depth of field, blurred background.",
+    "category": "jobsite",
+    "caption": "WHERE THE ANSWERS ACTUALLY LIVE.",
+    "style": "double_banner",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 12,
+    "filename": "b3-012-circle_badge.png",
+    "scene_prompt": "the book resting on a wooden desk, a claw hammer and chalk line nearby, blue hour dusk light, modern and minimal atmosphere.",
+    "category": "office",
+    "caption": "MORE USEFUL THAN THE LUMBER YARD GUY.",
+    "style": "circle_badge",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 13,
+    "filename": "b3-013-guarantee_seal.png",
+    "scene_prompt": "the book resting on a kitchen counter, a pair of work boots nearby, overcast diffused daylight, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "HOMEWORK FOR THE HOME YOU'RE BUILDING.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 14,
+    "filename": "b3-014-hero_quote.png",
+    "scene_prompt": "the book resting on a wooden desk, a small toolbox nearby, dramatic warm side lighting, shallow depth of field, blurred background.",
+    "category": "office",
+    "caption": "FROM FRAMING TO FINISH, ONE BOOK.",
+    "style": "hero_quote",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 15,
+    "filename": "b3-015-bottom.png",
+    "scene_prompt": "the book resting on a stack of plywood sheets, a rolled-up tape measure nearby, warm golden hour light, shallow depth of field, blurred background.",
+    "category": "jobsite",
+    "caption": "READ IT BEFORE THE FIRST DELIVERY ARRIVES.",
+    "style": "bottom",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 16,
+    "filename": "b3-016-top_banner.png",
+    "scene_prompt": "the book resting on a porch swing cushion, a rolled architectural blueprint tube (closed) nearby, soft afternoon light, professional and organized atmosphere.",
+    "category": "outdoor",
+    "caption": "MEASURE TWICE. READ FIRST.",
+    "style": "top_banner",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 17,
+    "filename": "b3-017-corner_badge.png",
+    "scene_prompt": "the book resting on a front door mat, a hammer nearby, dramatic warm side lighting, cozy and warm atmosphere.",
+    "category": "outdoor",
+    "caption": "WEEKEND PROJECTS START HERE.",
+    "style": "corner_badge",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 18,
+    "filename": "b3-018-ribbon.png",
+    "scene_prompt": "the book resting on a wooden desk, a thermos nearby, warm golden hour light, professional and organized atmosphere.",
+    "category": "office",
+    "caption": "RIDES ALONG TO EVERY JOBSITE.",
+    "style": "ribbon",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 19,
+    "filename": "b3-019-side_bar.png",
+    "scene_prompt": "the book resting on a stack of plywood sheets, a level tool nearby, overcast diffused daylight, clean and orderly composition.",
+    "category": "jobsite",
+    "caption": "THE GUIDE BEHIND THE FINISHED KITCHEN.",
+    "style": "side_bar",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 20,
+    "filename": "b3-020-color_block.png",
+    "scene_prompt": "the book resting on a driveway concrete, a steaming cup of coffee nearby, dramatic warm side lighting, rustic and lived-in atmosphere.",
+    "category": "jobsite",
+    "caption": "PACKED WITH THE REST OF YOUR TOOLS.",
+    "style": "color_block",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 21,
+    "filename": "b3-021-stat_callout.png",
+    "scene_prompt": "the book resting on a window sill, a box of screws nearby, soft morning window light, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "STOP GUESSING.",
+    "style": "stat_callout",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 22,
+    "filename": "b3-022-review_badge.png",
+    "scene_prompt": "the book resting on a granite countertop, a small toolbox nearby, soft afternoon light, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "BUILD WITH CONFIDENCE.",
+    "style": "review_badge",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 23,
+    "filename": "b3-023-checklist.png",
+    "scene_prompt": "the book resting on a wooden workbench, a stack of clean folded rags nearby, warm golden hour light, cozy and warm atmosphere.",
+    "category": "workshop",
+    "caption": "THE ONLY GUIDE YOU'LL NEED.",
+    "style": "checklist",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 24,
+    "filename": "b3-024-sticky_note.png",
+    "scene_prompt": "the book resting on a truck tailgate, a small potted plant nearby, blue hour dusk light, shallow depth of field, blurred background.",
+    "category": "jobsite",
+    "caption": "TIRED OF GUESSING WHAT'S NEXT?",
+    "style": "sticky_note",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 25,
+    "filename": "b3-025-double_banner.png",
+    "scene_prompt": "the book resting on a picnic table, a wooden pencil nearby, soft morning window light, rustic and lived-in atmosphere.",
+    "category": "outdoor",
+    "caption": "DON'T START WITHOUT IT.",
+    "style": "double_banner",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 26,
+    "filename": "b3-026-circle_badge.png",
+    "scene_prompt": "the book resting on a driveway concrete, a stack of clean folded rags nearby, cozy evening lamp light, shallow depth of field, blurred background.",
+    "category": "jobsite",
+    "caption": "THE MANUAL YOUR CONTRACTOR DOESN'T WANT YOU TO HAVE.",
+    "style": "circle_badge",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 27,
+    "filename": "b3-027-guarantee_seal.png",
+    "scene_prompt": "the book resting on a kitchen island, a cordless drill nearby, warm golden hour light, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "YOU ONLY NEED ONE.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 28,
+    "filename": "b3-028-hero_quote.png",
+    "scene_prompt": "the book resting on a fireplace mantel, a hammer nearby, soft afternoon light, modern and minimal atmosphere.",
+    "category": "home",
+    "caption": "KNOW THE BUILD BEFORE THE BUILD STARTS.",
+    "style": "hero_quote",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 29,
+    "filename": "b3-029-bottom.png",
+    "scene_prompt": "the book resting on a kitchen counter, a calculator nearby, warm desk lamp light, modern and minimal atmosphere.",
+    "category": "home",
+    "caption": "THE FIRST FIFTY PAGES CHANGE HOW YOU SEE THE JOB.",
+    "style": "bottom",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 30,
+    "filename": "b3-030-top_banner.png",
+    "scene_prompt": "the book resting on a bathroom vanity, reading glasses nearby, cozy evening lamp light, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "OWNER-BUILDERS PASS THIS ONE AROUND.",
+    "style": "top_banner",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 31,
+    "filename": "b3-031-corner_badge.png",
+    "scene_prompt": "the book resting on a kitchen counter, a level tool nearby, warm golden hour light, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "A LABELED DIAGRAM AT NEARLY EVERY STEP.",
+    "style": "corner_badge",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 32,
+    "filename": "b3-032-ribbon.png",
+    "scene_prompt": "the book resting on a front door mat, reading glasses nearby, soft afternoon light, professional and organized atmosphere.",
+    "category": "outdoor",
+    "caption": "WRITTEN IN THE ORDER HOUSES GET BUILT.",
+    "style": "ribbon",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 33,
+    "filename": "b3-033-side_bar.png",
+    "scene_prompt": "the book resting on a wooden desk, reading glasses nearby, cozy evening lamp light, modern and minimal atmosphere.",
+    "category": "office",
+    "caption": "700 PAGES. ONE SEQUENCE. FOUNDATION TO FINISH.",
+    "style": "side_bar",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 34,
+    "filename": "b3-034-color_block.png",
+    "scene_prompt": "the book resting on a kitchen island, a wooden pencil nearby, blue hour dusk light, clean and orderly composition.",
+    "category": "home",
+    "caption": "THE JOBSITE ANSWER, BEFORE THE JOBSITE QUESTION.",
+    "style": "color_block",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 35,
+    "filename": "b3-035-stat_callout.png",
+    "scene_prompt": "the book resting on a living room coffee table, a stack of clean folded rags nearby, warm desk lamp light, modern and minimal atmosphere.",
+    "category": "home",
+    "caption": "QUESTION THE QUOTE. UNDERSTAND EVERY LINE.",
+    "style": "stat_callout",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 36,
+    "filename": "b3-036-review_badge.png",
+    "scene_prompt": "the book resting on a granite countertop, a claw hammer and chalk line nearby, bright midday sun, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "CATCH THE SHORTCUT BEFORE THE WALLS CLOSE.",
+    "style": "review_badge",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 37,
+    "filename": "b3-037-checklist.png",
+    "scene_prompt": "the book resting on a ladder rung, a calculator nearby, soft afternoon light, modern and minimal atmosphere.",
+    "category": "workshop",
+    "caption": "THE REFERENCE THAT STAYS ON THE BENCH.",
+    "style": "checklist",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 38,
+    "filename": "b3-038-sticky_note.png",
+    "scene_prompt": "the book resting on a driveway concrete, a water bottle nearby, overcast diffused daylight, rustic and lived-in atmosphere.",
+    "category": "jobsite",
+    "caption": "FOUNDATION TO FINISH, IN ORDER.",
+    "style": "sticky_note",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 39,
+    "filename": "b3-039-double_banner.png",
+    "scene_prompt": "the book resting on a plywood sawhorse table, a coil of yellow extension cord nearby, soft afternoon light, professional and organized atmosphere.",
+    "category": "jobsite",
+    "caption": "NOT A TUTORIAL FOLDER. A COMPLETE SEQUENCE.",
+    "style": "double_banner",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 40,
+    "filename": "b3-040-circle_badge.png",
+    "scene_prompt": "the book resting on a fireplace mantel, a claw hammer and chalk line nearby, warm golden hour light, clean and orderly composition.",
+    "category": "home",
+    "caption": "THE BOOK THAT REPLACED 312 SAVED VIDEOS.",
+    "style": "circle_badge",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 41,
+    "filename": "b3-041-guarantee_seal.png",
+    "scene_prompt": "the book resting on a wooden desk, a notepad and pen nearby, cozy evening lamp light, modern and minimal atmosphere.",
+    "category": "office",
+    "caption": "THE PLAN BEFORE THE POUR.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 42,
+    "filename": "b3-042-hero_quote.png",
+    "scene_prompt": "the book resting on a porch step, a pair of work boots nearby, cozy evening lamp light, clean and orderly composition.",
+    "category": "outdoor",
+    "caption": "EVERY PHASE. COVERED.",
+    "style": "hero_quote",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 43,
+    "filename": "b3-043-bottom.png",
+    "scene_prompt": "the book resting on a plywood sawhorse table, a coil of yellow extension cord nearby, warm desk lamp light, modern and minimal atmosphere.",
+    "category": "jobsite",
+    "caption": "BUILT FOR PEOPLE WHO SHOW UP EVERY DAY.",
+    "style": "bottom",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 44,
+    "filename": "b3-044-top_banner.png",
+    "scene_prompt": "the book resting on a bathroom vanity, light sawdust scattered nearby nearby, warm desk lamp light, clean and orderly composition.",
+    "category": "home",
+    "caption": "READ IT BEFORE YOU BREAK GROUND.",
+    "style": "top_banner",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 45,
+    "filename": "b3-045-corner_badge.png",
+    "scene_prompt": "the book resting on a plywood sawhorse table, a small toolbox nearby, dramatic warm side lighting, cozy and warm atmosphere.",
+    "category": "jobsite",
+    "caption": "START YOUR DAY WHERE THE BUILD STARTS.",
+    "style": "corner_badge",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 46,
+    "filename": "b3-046-ribbon.png",
+    "scene_prompt": "the book resting on a folding camp chair armrest, a small potted plant nearby, warm desk lamp light, cozy and warm atmosphere.",
+    "category": "outdoor",
+    "caption": "ONE RUNG AT A TIME. ONE CHAPTER AT A TIME.",
+    "style": "ribbon",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 47,
+    "filename": "b3-047-side_bar.png",
+    "scene_prompt": "the book resting on a ladder rung, a hammer nearby, overcast diffused daylight, clean and orderly composition.",
+    "category": "workshop",
+    "caption": "KNOW THE NUMBERS BEFORE THEY KNOW YOU DON'T.",
+    "style": "side_bar",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 48,
+    "filename": "b3-048-color_block.png",
+    "scene_prompt": "the book resting on a front door mat, a closed paint can and roller nearby, dramatic warm side lighting, professional and organized atmosphere.",
+    "category": "outdoor",
+    "caption": "LUNCH BREAK READING THAT PAYS OFF.",
+    "style": "color_block",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 49,
+    "filename": "b3-049-stat_callout.png",
+    "scene_prompt": "the book resting on a kitchen island, a pair of work boots nearby, warm golden hour light, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "PACK IT LIKE A TOOL. USE IT LIKE ONE.",
+    "style": "stat_callout",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 50,
+    "filename": "b3-050-review_badge.png",
+    "scene_prompt": "the book resting on a garage floor mat, a small toolbox nearby, dramatic warm side lighting, professional and organized atmosphere.",
+    "category": "workshop",
+    "caption": "THE BOOK THAT GOT US HERE.",
+    "style": "review_badge",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 51,
+    "filename": "b3-051-checklist.png",
+    "scene_prompt": "the book resting on a driveway concrete, a pair of work boots nearby, cozy evening lamp light, rustic and lived-in atmosphere.",
+    "category": "jobsite",
+    "caption": "SKIP THE FORUMS. READ THE BOOK.",
+    "style": "checklist",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 52,
+    "filename": "b3-052-sticky_note.png",
+    "scene_prompt": "the book resting on a porch swing cushion, a box of screws nearby, warm golden hour light, shallow depth of field, blurred background.",
+    "category": "outdoor",
+    "caption": "WHERE THE ANSWERS ACTUALLY LIVE.",
+    "style": "sticky_note",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 53,
+    "filename": "b3-053-double_banner.png",
+    "scene_prompt": "the book resting on a basement workbench, a small toolbox nearby, dramatic warm side lighting, clean and orderly composition.",
+    "category": "workshop",
+    "caption": "MORE USEFUL THAN THE LUMBER YARD GUY.",
+    "style": "double_banner",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 54,
+    "filename": "b3-054-circle_badge.png",
+    "scene_prompt": "the book resting on a picnic table, a thermos nearby, warm golden hour light, cozy and warm atmosphere.",
+    "category": "outdoor",
+    "caption": "HOMEWORK FOR THE HOME YOU'RE BUILDING.",
+    "style": "circle_badge",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 55,
+    "filename": "b3-055-guarantee_seal.png",
+    "scene_prompt": "the book resting on a bathroom vanity, a calculator nearby, warm desk lamp light, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "FROM FRAMING TO FINISH, ONE BOOK.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 56,
+    "filename": "b3-056-hero_quote.png",
+    "scene_prompt": "the book resting on a metal toolbox lid, a water bottle nearby, warm desk lamp light, modern and minimal atmosphere.",
+    "category": "workshop",
+    "caption": "READ IT BEFORE THE FIRST DELIVERY ARRIVES.",
+    "style": "hero_quote",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 57,
+    "filename": "b3-057-bottom.png",
+    "scene_prompt": "the book resting on a attic floor beam, a canvas tool belt nearby, blue hour dusk light, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "MEASURE TWICE. READ FIRST.",
+    "style": "bottom",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 58,
+    "filename": "b3-058-top_banner.png",
+    "scene_prompt": "the book resting on a bathroom vanity, a calculator nearby, warm desk lamp light, clean and orderly composition.",
+    "category": "home",
+    "caption": "WEEKEND PROJECTS START HERE.",
+    "style": "top_banner",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 59,
+    "filename": "b3-059-corner_badge.png",
+    "scene_prompt": "the book resting on a kitchen island, a calculator nearby, blue hour dusk light, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "RIDES ALONG TO EVERY JOBSITE.",
+    "style": "corner_badge",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 60,
+    "filename": "b3-060-ribbon.png",
+    "scene_prompt": "the book resting on a picnic table, a claw hammer and chalk line nearby, cozy evening lamp light, cozy and warm atmosphere.",
+    "category": "outdoor",
+    "caption": "THE GUIDE BEHIND THE FINISHED KITCHEN.",
+    "style": "ribbon",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 61,
+    "filename": "b3-061-side_bar.png",
+    "scene_prompt": "the book resting on a porch step, a stack of clean folded rags nearby, warm golden hour light, cozy and warm atmosphere.",
+    "category": "outdoor",
+    "caption": "PACKED WITH THE REST OF YOUR TOOLS.",
+    "style": "side_bar",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 62,
+    "filename": "b3-062-color_block.png",
+    "scene_prompt": "the book resting on a living room coffee table, a small potted plant nearby, soft morning window light, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "STOP GUESSING.",
+    "style": "color_block",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 63,
+    "filename": "b3-063-stat_callout.png",
+    "scene_prompt": "the book resting on a garage floor mat, a set of house keys nearby, overcast diffused daylight, modern and minimal atmosphere.",
+    "category": "workshop",
+    "caption": "BUILD WITH CONFIDENCE.",
+    "style": "stat_callout",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 64,
+    "filename": "b3-064-review_badge.png",
+    "scene_prompt": "the book resting on a ladder rung, a cordless drill nearby, cozy evening lamp light, professional and organized atmosphere.",
+    "category": "workshop",
+    "caption": "THE ONLY GUIDE YOU'LL NEED.",
+    "style": "review_badge",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 65,
+    "filename": "b3-065-checklist.png",
+    "scene_prompt": "the book resting on a garage floor mat, a claw hammer and chalk line nearby, blue hour dusk light, modern and minimal atmosphere.",
+    "category": "workshop",
+    "caption": "TIRED OF GUESSING WHAT'S NEXT?",
+    "style": "checklist",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 66,
+    "filename": "b3-066-sticky_note.png",
+    "scene_prompt": "the book resting on a wooden staircase step, a pair of work boots nearby, warm golden hour light, cozy and warm atmosphere.",
+    "category": "home",
+    "caption": "DON'T START WITHOUT IT.",
+    "style": "sticky_note",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 67,
+    "filename": "b3-067-double_banner.png",
+    "scene_prompt": "the book resting on a outdoor bench, a pair of work boots nearby, warm desk lamp light, cozy and warm atmosphere.",
+    "category": "outdoor",
+    "caption": "THE MANUAL YOUR CONTRACTOR DOESN'T WANT YOU TO HAVE.",
+    "style": "double_banner",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 68,
+    "filename": "b3-068-circle_badge.png",
+    "scene_prompt": "the book resting on a porch swing cushion, a hammer nearby, warm golden hour light, cozy and warm atmosphere.",
+    "category": "outdoor",
+    "caption": "YOU ONLY NEED ONE.",
+    "style": "circle_badge",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 69,
+    "filename": "b3-069-guarantee_seal.png",
+    "scene_prompt": "the book resting on a laundry room shelf, a steaming cup of coffee nearby, soft afternoon light, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "KNOW THE BUILD BEFORE THE BUILD STARTS.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 70,
+    "filename": "b3-070-hero_quote.png",
+    "scene_prompt": "the book resting on a window sill, a steaming cup of coffee nearby, overcast diffused daylight, clean and orderly composition.",
+    "category": "home",
+    "caption": "THE FIRST FIFTY PAGES CHANGE HOW YOU SEE THE JOB.",
+    "style": "hero_quote",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 71,
+    "filename": "b3-071-bottom.png",
+    "scene_prompt": "the book resting on a garage floor mat, a box of screws nearby, bright midday sun, professional and organized atmosphere.",
+    "category": "workshop",
+    "caption": "OWNER-BUILDERS PASS THIS ONE AROUND.",
+    "style": "bottom",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 72,
+    "filename": "b3-072-top_banner.png",
+    "scene_prompt": "the book resting on a metal toolbox lid, a small toolbox nearby, dramatic warm side lighting, professional and organized atmosphere.",
+    "category": "workshop",
+    "caption": "A LABELED DIAGRAM AT NEARLY EVERY STEP.",
+    "style": "top_banner",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 73,
+    "filename": "b3-073-corner_badge.png",
+    "scene_prompt": "the book resting on a wooden staircase step, a set of house keys nearby, overcast diffused daylight, modern and minimal atmosphere.",
+    "category": "home",
+    "caption": "WRITTEN IN THE ORDER HOUSES GET BUILT.",
+    "style": "corner_badge",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 74,
+    "filename": "b3-074-ribbon.png",
+    "scene_prompt": "the book resting on a wheelbarrow edge, a canvas tool belt nearby, dramatic warm side lighting, professional and organized atmosphere.",
+    "category": "jobsite",
+    "caption": "700 PAGES. ONE SEQUENCE. FOUNDATION TO FINISH.",
+    "style": "ribbon",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 75,
+    "filename": "b3-075-side_bar.png",
+    "scene_prompt": "the book resting on a ladder rung, a claw hammer and chalk line nearby, bright midday sun, cozy and warm atmosphere.",
+    "category": "workshop",
+    "caption": "THE JOBSITE ANSWER, BEFORE THE JOBSITE QUESTION.",
+    "style": "side_bar",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 76,
+    "filename": "b3-076-color_block.png",
+    "scene_prompt": "the book resting on a garage floor mat, a canvas tool belt nearby, soft afternoon light, shallow depth of field, blurred background.",
+    "category": "workshop",
+    "caption": "QUESTION THE QUOTE. UNDERSTAND EVERY LINE.",
+    "style": "color_block",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 77,
+    "filename": "b3-077-stat_callout.png",
+    "scene_prompt": "the book resting on a car passenger seat, a hammer nearby, natural daylight through a garage door, shallow depth of field, blurred background.",
+    "category": "vehicle",
+    "caption": "CATCH THE SHORTCUT BEFORE THE WALLS CLOSE.",
+    "style": "stat_callout",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 78,
+    "filename": "b3-078-review_badge.png",
+    "scene_prompt": "the book resting on a ladder rung, a water bottle nearby, blue hour dusk light, professional and organized atmosphere.",
+    "category": "workshop",
+    "caption": "THE REFERENCE THAT STAYS ON THE BENCH.",
+    "style": "review_badge",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 79,
+    "filename": "b3-079-checklist.png",
+    "scene_prompt": "the book resting on a kitchen counter, a pair of leather work gloves nearby, soft morning window light, cozy and warm atmosphere.",
+    "category": "home",
+    "caption": "FOUNDATION TO FINISH, IN ORDER.",
+    "style": "checklist",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 80,
+    "filename": "b3-080-sticky_note.png",
+    "scene_prompt": "the book resting on a folding camp chair armrest, a claw hammer and chalk line nearby, bright midday sun, clean and orderly composition.",
+    "category": "outdoor",
+    "caption": "NOT A TUTORIAL FOLDER. A COMPLETE SEQUENCE.",
+    "style": "sticky_note",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 81,
+    "filename": "b3-081-double_banner.png",
+    "scene_prompt": "the book resting on a garage floor mat, a box of screws nearby, soft morning window light, cozy and warm atmosphere.",
+    "category": "workshop",
+    "caption": "THE BOOK THAT REPLACED 312 SAVED VIDEOS.",
+    "style": "double_banner",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 82,
+    "filename": "b3-082-circle_badge.png",
+    "scene_prompt": "the book resting on a basement workbench, a pair of leather work gloves nearby, warm golden hour light, cozy and warm atmosphere.",
+    "category": "workshop",
+    "caption": "THE PLAN BEFORE THE POUR.",
+    "style": "circle_badge",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 83,
+    "filename": "b3-083-guarantee_seal.png",
+    "scene_prompt": "the book resting on a porch step, a box of screws nearby, natural daylight through a garage door, modern and minimal atmosphere.",
+    "category": "outdoor",
+    "caption": "EVERY PHASE. COVERED.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 84,
+    "filename": "b3-084-hero_quote.png",
+    "scene_prompt": "the book resting on a car passenger seat, light sawdust scattered nearby nearby, dramatic warm side lighting, cozy and warm atmosphere.",
+    "category": "vehicle",
+    "caption": "BUILT FOR PEOPLE WHO SHOW UP EVERY DAY.",
+    "style": "hero_quote",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 85,
+    "filename": "b3-085-bottom.png",
+    "scene_prompt": "the book resting on a folding camp chair armrest, a thermos nearby, soft morning window light, professional and organized atmosphere.",
+    "category": "outdoor",
+    "caption": "READ IT BEFORE YOU BREAK GROUND.",
+    "style": "bottom",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 86,
+    "filename": "b3-086-top_banner.png",
+    "scene_prompt": "the book resting on a porch step, a set of house keys nearby, overcast diffused daylight, cozy and warm atmosphere.",
+    "category": "outdoor",
+    "caption": "START YOUR DAY WHERE THE BUILD STARTS.",
+    "style": "top_banner",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 87,
+    "filename": "b3-087-corner_badge.png",
+    "scene_prompt": "the book resting on a kitchen counter, a water bottle nearby, warm desk lamp light, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "ONE RUNG AT A TIME. ONE CHAPTER AT A TIME.",
+    "style": "corner_badge",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 88,
+    "filename": "b3-088-ribbon.png",
+    "scene_prompt": "the book resting on a car passenger seat, a small toolbox nearby, soft morning window light, clean and orderly composition.",
+    "category": "vehicle",
+    "caption": "KNOW THE NUMBERS BEFORE THEY KNOW YOU DON'T.",
+    "style": "ribbon",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 89,
+    "filename": "b3-089-side_bar.png",
+    "scene_prompt": "the book resting on a wooden workbench, a steaming cup of coffee nearby, overcast diffused daylight, modern and minimal atmosphere.",
+    "category": "workshop",
+    "caption": "LUNCH BREAK READING THAT PAYS OFF.",
+    "style": "side_bar",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 90,
+    "filename": "b3-090-color_block.png",
+    "scene_prompt": "the book resting on a kitchen counter, a water bottle nearby, dramatic warm side lighting, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "PACK IT LIKE A TOOL. USE IT LIKE ONE.",
+    "style": "color_block",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 91,
+    "filename": "b3-091-stat_callout.png",
+    "scene_prompt": "the book resting on a folding camp chair armrest, a tape dispenser nearby, soft afternoon light, shallow depth of field, blurred background.",
+    "category": "outdoor",
+    "caption": "THE BOOK THAT GOT US HERE.",
+    "style": "stat_callout",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 92,
+    "filename": "b3-092-review_badge.png",
+    "scene_prompt": "the book resting on a truck tailgate, a yellow hard hat nearby, soft morning window light, modern and minimal atmosphere.",
+    "category": "jobsite",
+    "caption": "SKIP THE FORUMS. READ THE BOOK.",
+    "style": "review_badge",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 93,
+    "filename": "b3-093-checklist.png",
+    "scene_prompt": "the book resting on a wooden staircase step, a rolled-up tape measure nearby, soft afternoon light, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "WHERE THE ANSWERS ACTUALLY LIVE.",
+    "style": "checklist",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 94,
+    "filename": "b3-094-sticky_note.png",
+    "scene_prompt": "the book resting on a plywood sawhorse table, a coil of yellow extension cord nearby, cozy evening lamp light, cozy and warm atmosphere.",
+    "category": "jobsite",
+    "caption": "MORE USEFUL THAN THE LUMBER YARD GUY.",
+    "style": "sticky_note",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 95,
+    "filename": "b3-095-double_banner.png",
+    "scene_prompt": "the book resting on a car passenger seat, light sawdust scattered nearby nearby, warm desk lamp light, rustic and lived-in atmosphere.",
+    "category": "vehicle",
+    "caption": "HOMEWORK FOR THE HOME YOU'RE BUILDING.",
+    "style": "double_banner",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 96,
+    "filename": "b3-096-circle_badge.png",
+    "scene_prompt": "the book resting on a wheelbarrow edge, light sawdust scattered nearby nearby, dramatic warm side lighting, rustic and lived-in atmosphere.",
+    "category": "jobsite",
+    "caption": "FROM FRAMING TO FINISH, ONE BOOK.",
+    "style": "circle_badge",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 97,
+    "filename": "b3-097-guarantee_seal.png",
+    "scene_prompt": "the book resting on a wheelbarrow edge, safety goggles nearby, warm desk lamp light, shallow depth of field, blurred background.",
+    "category": "jobsite",
+    "caption": "READ IT BEFORE THE FIRST DELIVERY ARRIVES.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 98,
+    "filename": "b3-098-hero_quote.png",
+    "scene_prompt": "the book resting on a window sill, a closed paint can and roller nearby, bright midday sun, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "MEASURE TWICE. READ FIRST.",
+    "style": "hero_quote",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 99,
+    "filename": "b3-099-bottom.png",
+    "scene_prompt": "the book resting on a metal toolbox lid, reading glasses nearby, soft morning window light, rustic and lived-in atmosphere.",
+    "category": "workshop",
+    "caption": "WEEKEND PROJECTS START HERE.",
+    "style": "bottom",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 100,
+    "filename": "b3-100-top_banner.png",
+    "scene_prompt": "the book resting on a wooden desk, a canvas tool belt nearby, soft afternoon light, modern and minimal atmosphere.",
+    "category": "office",
+    "caption": "RIDES ALONG TO EVERY JOBSITE.",
+    "style": "top_banner",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 101,
+    "filename": "b3-101-corner_badge.png",
+    "scene_prompt": "the book resting on a folding camp chair armrest, a wooden pencil nearby, dramatic warm side lighting, clean and orderly composition.",
+    "category": "outdoor",
+    "caption": "THE GUIDE BEHIND THE FINISHED KITCHEN.",
+    "style": "corner_badge",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 102,
+    "filename": "b3-102-ribbon.png",
+    "scene_prompt": "the book resting on a truck tailgate, light sawdust scattered nearby nearby, natural daylight through a garage door, professional and organized atmosphere.",
+    "category": "jobsite",
+    "caption": "PACKED WITH THE REST OF YOUR TOOLS.",
+    "style": "ribbon",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 103,
+    "filename": "b3-103-side_bar.png",
+    "scene_prompt": "the book resting on a kitchen island, a pair of leather work gloves nearby, soft afternoon light, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "STOP GUESSING.",
+    "style": "side_bar",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 104,
+    "filename": "b3-104-color_block.png",
+    "scene_prompt": "the book resting on a nightstand, a tape dispenser nearby, natural daylight through a garage door, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "BUILD WITH CONFIDENCE.",
+    "style": "color_block",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 105,
+    "filename": "b3-105-stat_callout.png",
+    "scene_prompt": "the book resting on a laundry room shelf, light sawdust scattered nearby nearby, dramatic warm side lighting, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "THE ONLY GUIDE YOU'LL NEED.",
+    "style": "stat_callout",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 106,
+    "filename": "b3-106-review_badge.png",
+    "scene_prompt": "the book resting on a window sill, a water bottle nearby, bright midday sun, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "TIRED OF GUESSING WHAT'S NEXT?",
+    "style": "review_badge",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 107,
+    "filename": "b3-107-checklist.png",
+    "scene_prompt": "the book resting on a wooden staircase step, a stack of clean folded rags nearby, overcast diffused daylight, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "DON'T START WITHOUT IT.",
+    "style": "checklist",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 108,
+    "filename": "b3-108-sticky_note.png",
+    "scene_prompt": "the book resting on a laundry room shelf, a steaming cup of coffee nearby, warm desk lamp light, cozy and warm atmosphere.",
+    "category": "home",
+    "caption": "THE MANUAL YOUR CONTRACTOR DOESN'T WANT YOU TO HAVE.",
+    "style": "sticky_note",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 109,
+    "filename": "b3-109-double_banner.png",
+    "scene_prompt": "the book resting on a fireplace mantel, a coil of yellow extension cord nearby, bright midday sun, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "YOU ONLY NEED ONE.",
+    "style": "double_banner",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 110,
+    "filename": "b3-110-circle_badge.png",
+    "scene_prompt": "the book resting on a fireplace mantel, a rolled architectural blueprint tube (closed) nearby, bright midday sun, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "KNOW THE BUILD BEFORE THE BUILD STARTS.",
+    "style": "circle_badge",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 111,
+    "filename": "b3-111-guarantee_seal.png",
+    "scene_prompt": "the book resting on a laundry room shelf, a coil of yellow extension cord nearby, cozy evening lamp light, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "THE FIRST FIFTY PAGES CHANGE HOW YOU SEE THE JOB.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 112,
+    "filename": "b3-112-hero_quote.png",
+    "scene_prompt": "the book resting on a wooden staircase step, a yellow hard hat nearby, soft afternoon light, cozy and warm atmosphere.",
+    "category": "home",
+    "caption": "OWNER-BUILDERS PASS THIS ONE AROUND.",
+    "style": "hero_quote",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 113,
+    "filename": "b3-113-bottom.png",
+    "scene_prompt": "the book resting on a wooden desk, a pair of leather work gloves nearby, warm golden hour light, professional and organized atmosphere.",
+    "category": "office",
+    "caption": "A LABELED DIAGRAM AT NEARLY EVERY STEP.",
+    "style": "bottom",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 114,
+    "filename": "b3-114-top_banner.png",
+    "scene_prompt": "the book resting on a wooden desk, a level tool nearby, soft afternoon light, modern and minimal atmosphere.",
+    "category": "office",
+    "caption": "WRITTEN IN THE ORDER HOUSES GET BUILT.",
+    "style": "top_banner",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 115,
+    "filename": "b3-115-corner_badge.png",
+    "scene_prompt": "the book resting on a porch step, a box of screws nearby, overcast diffused daylight, cozy and warm atmosphere.",
+    "category": "outdoor",
+    "caption": "700 PAGES. ONE SEQUENCE. FOUNDATION TO FINISH.",
+    "style": "corner_badge",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 116,
+    "filename": "b3-116-ribbon.png",
+    "scene_prompt": "the book resting on a outdoor bench, a steaming cup of coffee nearby, cozy evening lamp light, shallow depth of field, blurred background.",
+    "category": "outdoor",
+    "caption": "THE JOBSITE ANSWER, BEFORE THE JOBSITE QUESTION.",
+    "style": "ribbon",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 117,
+    "filename": "b3-117-side_bar.png",
+    "scene_prompt": "the book resting on a wooden desk, safety goggles nearby, dramatic warm side lighting, rustic and lived-in atmosphere.",
+    "category": "office",
+    "caption": "QUESTION THE QUOTE. UNDERSTAND EVERY LINE.",
+    "style": "side_bar",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 118,
+    "filename": "b3-118-color_block.png",
+    "scene_prompt": "the book resting on a wooden desk, a claw hammer and chalk line nearby, cozy evening lamp light, shallow depth of field, blurred background.",
+    "category": "office",
+    "caption": "CATCH THE SHORTCUT BEFORE THE WALLS CLOSE.",
+    "style": "color_block",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 119,
+    "filename": "b3-119-stat_callout.png",
+    "scene_prompt": "the book resting on a kitchen island, a yellow hard hat nearby, cozy evening lamp light, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "THE REFERENCE THAT STAYS ON THE BENCH.",
+    "style": "stat_callout",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 120,
+    "filename": "b3-120-review_badge.png",
+    "scene_prompt": "the book resting on a wooden workbench, a small potted plant nearby, soft morning window light, professional and organized atmosphere.",
+    "category": "workshop",
+    "caption": "FOUNDATION TO FINISH, IN ORDER.",
+    "style": "review_badge",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 121,
+    "filename": "b3-121-checklist.png",
+    "scene_prompt": "the book resting on a wooden desk, a steaming cup of coffee nearby, dramatic warm side lighting, modern and minimal atmosphere.",
+    "category": "office",
+    "caption": "NOT A TUTORIAL FOLDER. A COMPLETE SEQUENCE.",
+    "style": "checklist",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 122,
+    "filename": "b3-122-sticky_note.png",
+    "scene_prompt": "the book resting on a wheelbarrow edge, reading glasses nearby, warm desk lamp light, modern and minimal atmosphere.",
+    "category": "jobsite",
+    "caption": "THE BOOK THAT REPLACED 312 SAVED VIDEOS.",
+    "style": "sticky_note",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 123,
+    "filename": "b3-123-double_banner.png",
+    "scene_prompt": "the book resting on a scaffolding plank, light sawdust scattered nearby nearby, soft afternoon light, rustic and lived-in atmosphere.",
+    "category": "jobsite",
+    "caption": "THE PLAN BEFORE THE POUR.",
+    "style": "double_banner",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 124,
+    "filename": "b3-124-circle_badge.png",
+    "scene_prompt": "the book resting on a front door mat, a cordless drill nearby, warm golden hour light, rustic and lived-in atmosphere.",
+    "category": "outdoor",
+    "caption": "EVERY PHASE. COVERED.",
+    "style": "circle_badge",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 125,
+    "filename": "b3-125-guarantee_seal.png",
+    "scene_prompt": "the book resting on a window sill, a coil of yellow extension cord nearby, blue hour dusk light, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "BUILT FOR PEOPLE WHO SHOW UP EVERY DAY.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 126,
+    "filename": "b3-126-hero_quote.png",
+    "scene_prompt": "the book resting on a porch swing cushion, a rolled architectural blueprint tube (closed) nearby, warm desk lamp light, rustic and lived-in atmosphere.",
+    "category": "outdoor",
+    "caption": "READ IT BEFORE YOU BREAK GROUND.",
+    "style": "hero_quote",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 127,
+    "filename": "b3-127-bottom.png",
+    "scene_prompt": "the book resting on a laundry room shelf, a wooden pencil nearby, overcast diffused daylight, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "START YOUR DAY WHERE THE BUILD STARTS.",
+    "style": "bottom",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 128,
+    "filename": "b3-128-top_banner.png",
+    "scene_prompt": "the book resting on a kitchen island, a set of house keys nearby, warm golden hour light, cozy and warm atmosphere.",
+    "category": "home",
+    "caption": "ONE RUNG AT A TIME. ONE CHAPTER AT A TIME.",
+    "style": "top_banner",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 129,
+    "filename": "b3-129-corner_badge.png",
+    "scene_prompt": "the book resting on a nightstand, a rolled architectural blueprint tube (closed) nearby, dramatic warm side lighting, clean and orderly composition.",
+    "category": "home",
+    "caption": "KNOW THE NUMBERS BEFORE THEY KNOW YOU DON'T.",
+    "style": "corner_badge",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 130,
+    "filename": "b3-130-ribbon.png",
+    "scene_prompt": "the book resting on a scaffolding plank, a steaming cup of coffee nearby, warm desk lamp light, cozy and warm atmosphere.",
+    "category": "jobsite",
+    "caption": "LUNCH BREAK READING THAT PAYS OFF.",
+    "style": "ribbon",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 131,
+    "filename": "b3-131-side_bar.png",
+    "scene_prompt": "the book resting on a wooden staircase step, a rolled architectural blueprint tube (closed) nearby, cozy evening lamp light, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "PACK IT LIKE A TOOL. USE IT LIKE ONE.",
+    "style": "side_bar",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 132,
+    "filename": "b3-132-color_block.png",
+    "scene_prompt": "the book resting on a car passenger seat, light sawdust scattered nearby nearby, natural daylight through a garage door, rustic and lived-in atmosphere.",
+    "category": "vehicle",
+    "caption": "THE BOOK THAT GOT US HERE.",
+    "style": "color_block",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 133,
+    "filename": "b3-133-stat_callout.png",
+    "scene_prompt": "the book resting on a scaffolding plank, a box of screws nearby, soft afternoon light, clean and orderly composition.",
+    "category": "jobsite",
+    "caption": "SKIP THE FORUMS. READ THE BOOK.",
+    "style": "stat_callout",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 134,
+    "filename": "b3-134-review_badge.png",
+    "scene_prompt": "the book resting on a picnic table, a box of screws nearby, soft afternoon light, rustic and lived-in atmosphere.",
+    "category": "outdoor",
+    "caption": "WHERE THE ANSWERS ACTUALLY LIVE.",
+    "style": "review_badge",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 135,
+    "filename": "b3-135-checklist.png",
+    "scene_prompt": "the book resting on a plywood sawhorse table, a steaming cup of coffee nearby, warm golden hour light, modern and minimal atmosphere.",
+    "category": "jobsite",
+    "caption": "MORE USEFUL THAN THE LUMBER YARD GUY.",
+    "style": "checklist",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 136,
+    "filename": "b3-136-sticky_note.png",
+    "scene_prompt": "the book resting on a front door mat, a notepad and pen nearby, cozy evening lamp light, cozy and warm atmosphere.",
+    "category": "outdoor",
+    "caption": "HOMEWORK FOR THE HOME YOU'RE BUILDING.",
+    "style": "sticky_note",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 137,
+    "filename": "b3-137-double_banner.png",
+    "scene_prompt": "the book resting on a kitchen island, a thermos nearby, overcast diffused daylight, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "FROM FRAMING TO FINISH, ONE BOOK.",
+    "style": "double_banner",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 138,
+    "filename": "b3-138-circle_badge.png",
+    "scene_prompt": "the book resting on a granite countertop, a small potted plant nearby, overcast diffused daylight, clean and orderly composition.",
+    "category": "home",
+    "caption": "READ IT BEFORE THE FIRST DELIVERY ARRIVES.",
+    "style": "circle_badge",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 139,
+    "filename": "b3-139-guarantee_seal.png",
+    "scene_prompt": "the book resting on a wheelbarrow edge, a small toolbox nearby, soft morning window light, clean and orderly composition.",
+    "category": "jobsite",
+    "caption": "MEASURE TWICE. READ FIRST.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 140,
+    "filename": "b3-140-hero_quote.png",
+    "scene_prompt": "the book resting on a kitchen counter, a yellow hard hat nearby, soft afternoon light, clean and orderly composition.",
+    "category": "home",
+    "caption": "WEEKEND PROJECTS START HERE.",
+    "style": "hero_quote",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 141,
+    "filename": "b3-141-bottom.png",
+    "scene_prompt": "the book resting on a kitchen island, a rolled-up tape measure nearby, cozy evening lamp light, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "RIDES ALONG TO EVERY JOBSITE.",
+    "style": "bottom",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 142,
+    "filename": "b3-142-top_banner.png",
+    "scene_prompt": "the book resting on a garage floor mat, a tape dispenser nearby, overcast diffused daylight, clean and orderly composition.",
+    "category": "workshop",
+    "caption": "THE GUIDE BEHIND THE FINISHED KITCHEN.",
+    "style": "top_banner",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 143,
+    "filename": "b3-143-corner_badge.png",
+    "scene_prompt": "the book resting on a living room coffee table, a set of house keys nearby, blue hour dusk light, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "PACKED WITH THE REST OF YOUR TOOLS.",
+    "style": "corner_badge",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 144,
+    "filename": "b3-144-ribbon.png",
+    "scene_prompt": "the book resting on a kitchen counter, a claw hammer and chalk line nearby, soft afternoon light, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "STOP GUESSING.",
+    "style": "ribbon",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 145,
+    "filename": "b3-145-side_bar.png",
+    "scene_prompt": "the book resting on a stack of plywood sheets, a tape dispenser nearby, warm golden hour light, professional and organized atmosphere.",
+    "category": "jobsite",
+    "caption": "BUILD WITH CONFIDENCE.",
+    "style": "side_bar",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 146,
+    "filename": "b3-146-color_block.png",
+    "scene_prompt": "the book resting on a basement workbench, a tape dispenser nearby, warm desk lamp light, shallow depth of field, blurred background.",
+    "category": "workshop",
+    "caption": "THE ONLY GUIDE YOU'LL NEED.",
+    "style": "color_block",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 147,
+    "filename": "b3-147-stat_callout.png",
+    "scene_prompt": "the book resting on a garage floor mat, a thermos nearby, natural daylight through a garage door, clean and orderly composition.",
+    "category": "workshop",
+    "caption": "TIRED OF GUESSING WHAT'S NEXT?",
+    "style": "stat_callout",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 148,
+    "filename": "b3-148-review_badge.png",
+    "scene_prompt": "the book resting on a truck tailgate, a hammer nearby, soft afternoon light, clean and orderly composition.",
+    "category": "jobsite",
+    "caption": "DON'T START WITHOUT IT.",
+    "style": "review_badge",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 149,
+    "filename": "b3-149-checklist.png",
+    "scene_prompt": "the book resting on a window sill, a wooden pencil nearby, blue hour dusk light, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "THE MANUAL YOUR CONTRACTOR DOESN'T WANT YOU TO HAVE.",
+    "style": "checklist",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 150,
+    "filename": "b3-150-sticky_note.png",
+    "scene_prompt": "the book resting on a truck tailgate, a steaming cup of coffee nearby, overcast diffused daylight, clean and orderly composition.",
+    "category": "jobsite",
+    "caption": "YOU ONLY NEED ONE.",
+    "style": "sticky_note",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 151,
+    "filename": "b3-151-double_banner.png",
+    "scene_prompt": "the book resting on a picnic table, light sawdust scattered nearby nearby, dramatic warm side lighting, rustic and lived-in atmosphere.",
+    "category": "outdoor",
+    "caption": "KNOW THE BUILD BEFORE THE BUILD STARTS.",
+    "style": "double_banner",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 152,
+    "filename": "b3-152-circle_badge.png",
+    "scene_prompt": "the book resting on a wooden desk, a water bottle nearby, overcast diffused daylight, rustic and lived-in atmosphere.",
+    "category": "office",
+    "caption": "THE FIRST FIFTY PAGES CHANGE HOW YOU SEE THE JOB.",
+    "style": "circle_badge",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 153,
+    "filename": "b3-153-guarantee_seal.png",
+    "scene_prompt": "the book resting on a outdoor bench, a yellow hard hat nearby, soft morning window light, clean and orderly composition.",
+    "category": "outdoor",
+    "caption": "OWNER-BUILDERS PASS THIS ONE AROUND.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 154,
+    "filename": "b3-154-hero_quote.png",
+    "scene_prompt": "the book resting on a wheelbarrow edge, a box of screws nearby, natural daylight through a garage door, rustic and lived-in atmosphere.",
+    "category": "jobsite",
+    "caption": "A LABELED DIAGRAM AT NEARLY EVERY STEP.",
+    "style": "hero_quote",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 155,
+    "filename": "b3-155-bottom.png",
+    "scene_prompt": "the book resting on a driveway concrete, light sawdust scattered nearby nearby, soft afternoon light, clean and orderly composition.",
+    "category": "jobsite",
+    "caption": "WRITTEN IN THE ORDER HOUSES GET BUILT.",
+    "style": "bottom",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 156,
+    "filename": "b3-156-top_banner.png",
+    "scene_prompt": "the book resting on a front door mat, a water bottle nearby, blue hour dusk light, shallow depth of field, blurred background.",
+    "category": "outdoor",
+    "caption": "700 PAGES. ONE SEQUENCE. FOUNDATION TO FINISH.",
+    "style": "top_banner",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 157,
+    "filename": "b3-157-corner_badge.png",
+    "scene_prompt": "the book resting on a driveway concrete, a stainless steel travel mug nearby, dramatic warm side lighting, professional and organized atmosphere.",
+    "category": "jobsite",
+    "caption": "THE JOBSITE ANSWER, BEFORE THE JOBSITE QUESTION.",
+    "style": "corner_badge",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 158,
+    "filename": "b3-158-ribbon.png",
+    "scene_prompt": "the book resting on a ladder rung, a level tool nearby, soft afternoon light, cozy and warm atmosphere.",
+    "category": "workshop",
+    "caption": "QUESTION THE QUOTE. UNDERSTAND EVERY LINE.",
+    "style": "ribbon",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 159,
+    "filename": "b3-159-side_bar.png",
+    "scene_prompt": "the book resting on a porch step, a rolled architectural blueprint tube (closed) nearby, bright midday sun, clean and orderly composition.",
+    "category": "outdoor",
+    "caption": "CATCH THE SHORTCUT BEFORE THE WALLS CLOSE.",
+    "style": "side_bar",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 160,
+    "filename": "b3-160-color_block.png",
+    "scene_prompt": "the book resting on a scaffolding plank, a closed paint can and roller nearby, dramatic warm side lighting, professional and organized atmosphere.",
+    "category": "jobsite",
+    "caption": "THE REFERENCE THAT STAYS ON THE BENCH.",
+    "style": "color_block",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 161,
+    "filename": "b3-161-stat_callout.png",
+    "scene_prompt": "the book resting on a stack of plywood sheets, a steaming cup of coffee nearby, warm desk lamp light, professional and organized atmosphere.",
+    "category": "jobsite",
+    "caption": "FOUNDATION TO FINISH, IN ORDER.",
+    "style": "stat_callout",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 162,
+    "filename": "b3-162-review_badge.png",
+    "scene_prompt": "the book resting on a kitchen counter, a claw hammer and chalk line nearby, warm desk lamp light, cozy and warm atmosphere.",
+    "category": "home",
+    "caption": "NOT A TUTORIAL FOLDER. A COMPLETE SEQUENCE.",
+    "style": "review_badge",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 163,
+    "filename": "b3-163-checklist.png",
+    "scene_prompt": "the book resting on a scaffolding plank, light sawdust scattered nearby nearby, warm desk lamp light, clean and orderly composition.",
+    "category": "jobsite",
+    "caption": "THE BOOK THAT REPLACED 312 SAVED VIDEOS.",
+    "style": "checklist",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 164,
+    "filename": "b3-164-sticky_note.png",
+    "scene_prompt": "the book resting on a bathroom vanity, a level tool nearby, natural daylight through a garage door, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "THE PLAN BEFORE THE POUR.",
+    "style": "sticky_note",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 165,
+    "filename": "b3-165-double_banner.png",
+    "scene_prompt": "the book resting on a front door mat, a rolled architectural blueprint tube (closed) nearby, soft morning window light, rustic and lived-in atmosphere.",
+    "category": "outdoor",
+    "caption": "EVERY PHASE. COVERED.",
+    "style": "double_banner",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 166,
+    "filename": "b3-166-circle_badge.png",
+    "scene_prompt": "the book resting on a metal toolbox lid, a pair of work boots nearby, warm desk lamp light, rustic and lived-in atmosphere.",
+    "category": "workshop",
+    "caption": "BUILT FOR PEOPLE WHO SHOW UP EVERY DAY.",
+    "style": "circle_badge",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 167,
+    "filename": "b3-167-guarantee_seal.png",
+    "scene_prompt": "the book resting on a window sill, safety goggles nearby, natural daylight through a garage door, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "READ IT BEFORE YOU BREAK GROUND.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 168,
+    "filename": "b3-168-hero_quote.png",
+    "scene_prompt": "the book resting on a wooden desk, a rolled-up tape measure nearby, soft afternoon light, shallow depth of field, blurred background.",
+    "category": "office",
+    "caption": "START YOUR DAY WHERE THE BUILD STARTS.",
+    "style": "hero_quote",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 169,
+    "filename": "b3-169-bottom.png",
+    "scene_prompt": "the book resting on a porch step, a wooden pencil nearby, blue hour dusk light, cozy and warm atmosphere.",
+    "category": "outdoor",
+    "caption": "ONE RUNG AT A TIME. ONE CHAPTER AT A TIME.",
+    "style": "bottom",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 170,
+    "filename": "b3-170-top_banner.png",
+    "scene_prompt": "the book resting on a ladder rung, safety goggles nearby, bright midday sun, modern and minimal atmosphere.",
+    "category": "workshop",
+    "caption": "KNOW THE NUMBERS BEFORE THEY KNOW YOU DON'T.",
+    "style": "top_banner",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 171,
+    "filename": "b3-171-corner_badge.png",
+    "scene_prompt": "the book resting on a folding camp chair armrest, a rolled architectural blueprint tube (closed) nearby, warm desk lamp light, professional and organized atmosphere.",
+    "category": "outdoor",
+    "caption": "LUNCH BREAK READING THAT PAYS OFF.",
+    "style": "corner_badge",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 172,
+    "filename": "b3-172-ribbon.png",
+    "scene_prompt": "the book resting on a wooden desk, a water bottle nearby, warm desk lamp light, cozy and warm atmosphere.",
+    "category": "office",
+    "caption": "PACK IT LIKE A TOOL. USE IT LIKE ONE.",
+    "style": "ribbon",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 173,
+    "filename": "b3-173-side_bar.png",
+    "scene_prompt": "the book resting on a kitchen island, light sawdust scattered nearby nearby, bright midday sun, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "THE BOOK THAT GOT US HERE.",
+    "style": "side_bar",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 174,
+    "filename": "b3-174-color_block.png",
+    "scene_prompt": "the book resting on a ladder rung, a small toolbox nearby, overcast diffused daylight, shallow depth of field, blurred background.",
+    "category": "workshop",
+    "caption": "SKIP THE FORUMS. READ THE BOOK.",
+    "style": "color_block",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 175,
+    "filename": "b3-175-stat_callout.png",
+    "scene_prompt": "the book resting on a kitchen island, a steaming cup of coffee nearby, blue hour dusk light, clean and orderly composition.",
+    "category": "home",
+    "caption": "WHERE THE ANSWERS ACTUALLY LIVE.",
+    "style": "stat_callout",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 176,
+    "filename": "b3-176-review_badge.png",
+    "scene_prompt": "the book resting on a porch swing cushion, a level tool nearby, dramatic warm side lighting, clean and orderly composition.",
+    "category": "outdoor",
+    "caption": "MORE USEFUL THAN THE LUMBER YARD GUY.",
+    "style": "review_badge",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 177,
+    "filename": "b3-177-checklist.png",
+    "scene_prompt": "the book resting on a stack of plywood sheets, a small potted plant nearby, cozy evening lamp light, modern and minimal atmosphere.",
+    "category": "jobsite",
+    "caption": "HOMEWORK FOR THE HOME YOU'RE BUILDING.",
+    "style": "checklist",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 178,
+    "filename": "b3-178-sticky_note.png",
+    "scene_prompt": "the book resting on a garage floor mat, a yellow hard hat nearby, overcast diffused daylight, rustic and lived-in atmosphere.",
+    "category": "workshop",
+    "caption": "FROM FRAMING TO FINISH, ONE BOOK.",
+    "style": "sticky_note",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 179,
+    "filename": "b3-179-double_banner.png",
+    "scene_prompt": "the book resting on a scaffolding plank, a rolled architectural blueprint tube (closed) nearby, soft morning window light, shallow depth of field, blurred background.",
+    "category": "jobsite",
+    "caption": "READ IT BEFORE THE FIRST DELIVERY ARRIVES.",
+    "style": "double_banner",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 180,
+    "filename": "b3-180-circle_badge.png",
+    "scene_prompt": "the book resting on a plywood sawhorse table, a rolled architectural blueprint tube (closed) nearby, soft morning window light, professional and organized atmosphere.",
+    "category": "jobsite",
+    "caption": "MEASURE TWICE. READ FIRST.",
+    "style": "circle_badge",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 181,
+    "filename": "b3-181-guarantee_seal.png",
+    "scene_prompt": "the book resting on a attic floor beam, reading glasses nearby, blue hour dusk light, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "WEEKEND PROJECTS START HERE.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 182,
+    "filename": "b3-182-hero_quote.png",
+    "scene_prompt": "the book resting on a wheelbarrow edge, a pair of work boots nearby, dramatic warm side lighting, shallow depth of field, blurred background.",
+    "category": "jobsite",
+    "caption": "RIDES ALONG TO EVERY JOBSITE.",
+    "style": "hero_quote",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 183,
+    "filename": "b3-183-bottom.png",
+    "scene_prompt": "the book resting on a window sill, a pair of work boots nearby, overcast diffused daylight, modern and minimal atmosphere.",
+    "category": "home",
+    "caption": "THE GUIDE BEHIND THE FINISHED KITCHEN.",
+    "style": "bottom",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 184,
+    "filename": "b3-184-top_banner.png",
+    "scene_prompt": "the book resting on a nightstand, a yellow hard hat nearby, soft morning window light, cozy and warm atmosphere.",
+    "category": "home",
+    "caption": "PACKED WITH THE REST OF YOUR TOOLS.",
+    "style": "top_banner",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 185,
+    "filename": "b3-185-corner_badge.png",
+    "scene_prompt": "the book resting on a stack of plywood sheets, a hammer nearby, bright midday sun, clean and orderly composition.",
+    "category": "jobsite",
+    "caption": "STOP GUESSING.",
+    "style": "corner_badge",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 186,
+    "filename": "b3-186-ribbon.png",
+    "scene_prompt": "the book resting on a folding camp chair armrest, a cordless drill nearby, blue hour dusk light, modern and minimal atmosphere.",
+    "category": "outdoor",
+    "caption": "BUILD WITH CONFIDENCE.",
+    "style": "ribbon",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 187,
+    "filename": "b3-187-side_bar.png",
+    "scene_prompt": "the book resting on a front door mat, a rolled architectural blueprint tube (closed) nearby, blue hour dusk light, professional and organized atmosphere.",
+    "category": "outdoor",
+    "caption": "THE ONLY GUIDE YOU'LL NEED.",
+    "style": "side_bar",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 188,
+    "filename": "b3-188-color_block.png",
+    "scene_prompt": "the book resting on a wooden staircase step, reading glasses nearby, blue hour dusk light, clean and orderly composition.",
+    "category": "home",
+    "caption": "TIRED OF GUESSING WHAT'S NEXT?",
+    "style": "color_block",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 189,
+    "filename": "b3-189-stat_callout.png",
+    "scene_prompt": "the book resting on a window sill, a level tool nearby, natural daylight through a garage door, cozy and warm atmosphere.",
+    "category": "home",
+    "caption": "DON'T START WITHOUT IT.",
+    "style": "stat_callout",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 190,
+    "filename": "b3-190-review_badge.png",
+    "scene_prompt": "the book resting on a wooden desk, light sawdust scattered nearby nearby, warm desk lamp light, cozy and warm atmosphere.",
+    "category": "office",
+    "caption": "THE MANUAL YOUR CONTRACTOR DOESN'T WANT YOU TO HAVE.",
+    "style": "review_badge",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 191,
+    "filename": "b3-191-checklist.png",
+    "scene_prompt": "the book resting on a wooden staircase step, a stack of clean folded rags nearby, cozy evening lamp light, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "YOU ONLY NEED ONE.",
+    "style": "checklist",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 192,
+    "filename": "b3-192-sticky_note.png",
+    "scene_prompt": "the book resting on a folding camp chair armrest, a closed paint can and roller nearby, soft afternoon light, rustic and lived-in atmosphere.",
+    "category": "outdoor",
+    "caption": "KNOW THE BUILD BEFORE THE BUILD STARTS.",
+    "style": "sticky_note",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 193,
+    "filename": "b3-193-double_banner.png",
+    "scene_prompt": "the book resting on a truck tailgate, a box of screws nearby, bright midday sun, modern and minimal atmosphere.",
+    "category": "jobsite",
+    "caption": "THE FIRST FIFTY PAGES CHANGE HOW YOU SEE THE JOB.",
+    "style": "double_banner",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 194,
+    "filename": "b3-194-circle_badge.png",
+    "scene_prompt": "the book resting on a fireplace mantel, a stack of clean folded rags nearby, warm golden hour light, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "OWNER-BUILDERS PASS THIS ONE AROUND.",
+    "style": "circle_badge",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 195,
+    "filename": "b3-195-guarantee_seal.png",
+    "scene_prompt": "the book resting on a wooden desk, a stainless steel travel mug nearby, bright midday sun, rustic and lived-in atmosphere.",
+    "category": "office",
+    "caption": "A LABELED DIAGRAM AT NEARLY EVERY STEP.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 196,
+    "filename": "b3-196-hero_quote.png",
+    "scene_prompt": "the book resting on a front door mat, reading glasses nearby, blue hour dusk light, professional and organized atmosphere.",
+    "category": "outdoor",
+    "caption": "WRITTEN IN THE ORDER HOUSES GET BUILT.",
+    "style": "hero_quote",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 197,
+    "filename": "b3-197-bottom.png",
+    "scene_prompt": "the book resting on a laundry room shelf, a rolled-up tape measure nearby, dramatic warm side lighting, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "700 PAGES. ONE SEQUENCE. FOUNDATION TO FINISH.",
+    "style": "bottom",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 198,
+    "filename": "b3-198-top_banner.png",
+    "scene_prompt": "the book resting on a wheelbarrow edge, a pair of work boots nearby, warm desk lamp light, rustic and lived-in atmosphere.",
+    "category": "jobsite",
+    "caption": "THE JOBSITE ANSWER, BEFORE THE JOBSITE QUESTION.",
+    "style": "top_banner",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 199,
+    "filename": "b3-199-corner_badge.png",
+    "scene_prompt": "the book resting on a truck tailgate, a set of house keys nearby, warm desk lamp light, rustic and lived-in atmosphere.",
+    "category": "jobsite",
+    "caption": "QUESTION THE QUOTE. UNDERSTAND EVERY LINE.",
+    "style": "corner_badge",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 200,
+    "filename": "b3-200-ribbon.png",
+    "scene_prompt": "the book resting on a ladder rung, a thermos nearby, cozy evening lamp light, modern and minimal atmosphere.",
+    "category": "workshop",
+    "caption": "CATCH THE SHORTCUT BEFORE THE WALLS CLOSE.",
+    "style": "ribbon",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 201,
+    "filename": "b3-201-side_bar.png",
+    "scene_prompt": "the book resting on a wheelbarrow edge, a set of house keys nearby, bright midday sun, cozy and warm atmosphere.",
+    "category": "jobsite",
+    "caption": "THE REFERENCE THAT STAYS ON THE BENCH.",
+    "style": "side_bar",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 202,
+    "filename": "b3-202-color_block.png",
+    "scene_prompt": "the book resting on a driveway concrete, safety goggles nearby, dramatic warm side lighting, rustic and lived-in atmosphere.",
+    "category": "jobsite",
+    "caption": "FOUNDATION TO FINISH, IN ORDER.",
+    "style": "color_block",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 203,
+    "filename": "b3-203-stat_callout.png",
+    "scene_prompt": "the book resting on a attic floor beam, a stainless steel travel mug nearby, blue hour dusk light, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "NOT A TUTORIAL FOLDER. A COMPLETE SEQUENCE.",
+    "style": "stat_callout",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 204,
+    "filename": "b3-204-review_badge.png",
+    "scene_prompt": "the book resting on a living room coffee table, safety goggles nearby, blue hour dusk light, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "THE BOOK THAT REPLACED 312 SAVED VIDEOS.",
+    "style": "review_badge",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 205,
+    "filename": "b3-205-checklist.png",
+    "scene_prompt": "the book resting on a laundry room shelf, a yellow hard hat nearby, blue hour dusk light, clean and orderly composition.",
+    "category": "home",
+    "caption": "THE PLAN BEFORE THE POUR.",
+    "style": "checklist",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 206,
+    "filename": "b3-206-sticky_note.png",
+    "scene_prompt": "the book resting on a outdoor bench, a coil of yellow extension cord nearby, natural daylight through a garage door, cozy and warm atmosphere.",
+    "category": "outdoor",
+    "caption": "EVERY PHASE. COVERED.",
+    "style": "sticky_note",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 207,
+    "filename": "b3-207-double_banner.png",
+    "scene_prompt": "the book resting on a bathroom vanity, a set of house keys nearby, bright midday sun, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "BUILT FOR PEOPLE WHO SHOW UP EVERY DAY.",
+    "style": "double_banner",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 208,
+    "filename": "b3-208-circle_badge.png",
+    "scene_prompt": "the book resting on a laundry room shelf, light sawdust scattered nearby nearby, natural daylight through a garage door, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "READ IT BEFORE YOU BREAK GROUND.",
+    "style": "circle_badge",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 209,
+    "filename": "b3-209-guarantee_seal.png",
+    "scene_prompt": "the book resting on a window sill, a tape dispenser nearby, cozy evening lamp light, modern and minimal atmosphere.",
+    "category": "home",
+    "caption": "START YOUR DAY WHERE THE BUILD STARTS.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 210,
+    "filename": "b3-210-hero_quote.png",
+    "scene_prompt": "the book resting on a living room coffee table, a coil of yellow extension cord nearby, dramatic warm side lighting, cozy and warm atmosphere.",
+    "category": "home",
+    "caption": "ONE RUNG AT A TIME. ONE CHAPTER AT A TIME.",
+    "style": "hero_quote",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 211,
+    "filename": "b3-211-bottom.png",
+    "scene_prompt": "the book resting on a wooden workbench, a steaming cup of coffee nearby, blue hour dusk light, modern and minimal atmosphere.",
+    "category": "workshop",
+    "caption": "KNOW THE NUMBERS BEFORE THEY KNOW YOU DON'T.",
+    "style": "bottom",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 212,
+    "filename": "b3-212-top_banner.png",
+    "scene_prompt": "the book resting on a attic floor beam, a stack of clean folded rags nearby, soft morning window light, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "LUNCH BREAK READING THAT PAYS OFF.",
+    "style": "top_banner",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 213,
+    "filename": "b3-213-corner_badge.png",
+    "scene_prompt": "the book resting on a laundry room shelf, a yellow hard hat nearby, cozy evening lamp light, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "PACK IT LIKE A TOOL. USE IT LIKE ONE.",
+    "style": "corner_badge",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 214,
+    "filename": "b3-214-ribbon.png",
+    "scene_prompt": "the book resting on a driveway concrete, a box of screws nearby, warm golden hour light, cozy and warm atmosphere.",
+    "category": "jobsite",
+    "caption": "THE BOOK THAT GOT US HERE.",
+    "style": "ribbon",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 215,
+    "filename": "b3-215-side_bar.png",
+    "scene_prompt": "the book resting on a nightstand, a pair of work boots nearby, soft morning window light, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "SKIP THE FORUMS. READ THE BOOK.",
+    "style": "side_bar",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 216,
+    "filename": "b3-216-color_block.png",
+    "scene_prompt": "the book resting on a kitchen island, a box of screws nearby, overcast diffused daylight, clean and orderly composition.",
+    "category": "home",
+    "caption": "WHERE THE ANSWERS ACTUALLY LIVE.",
+    "style": "color_block",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 217,
+    "filename": "b3-217-stat_callout.png",
+    "scene_prompt": "the book resting on a garage floor mat, a pair of work boots nearby, overcast diffused daylight, modern and minimal atmosphere.",
+    "category": "workshop",
+    "caption": "MORE USEFUL THAN THE LUMBER YARD GUY.",
+    "style": "stat_callout",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 218,
+    "filename": "b3-218-review_badge.png",
+    "scene_prompt": "the book resting on a wooden staircase step, a coil of yellow extension cord nearby, soft afternoon light, clean and orderly composition.",
+    "category": "home",
+    "caption": "HOMEWORK FOR THE HOME YOU'RE BUILDING.",
+    "style": "review_badge",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 219,
+    "filename": "b3-219-checklist.png",
+    "scene_prompt": "the book resting on a kitchen island, a calculator nearby, dramatic warm side lighting, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "FROM FRAMING TO FINISH, ONE BOOK.",
+    "style": "checklist",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 220,
+    "filename": "b3-220-sticky_note.png",
+    "scene_prompt": "the book resting on a garage floor mat, a cordless drill nearby, blue hour dusk light, rustic and lived-in atmosphere.",
+    "category": "workshop",
+    "caption": "READ IT BEFORE THE FIRST DELIVERY ARRIVES.",
+    "style": "sticky_note",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 221,
+    "filename": "b3-221-double_banner.png",
+    "scene_prompt": "the book resting on a wheelbarrow edge, a yellow hard hat nearby, blue hour dusk light, cozy and warm atmosphere.",
+    "category": "jobsite",
+    "caption": "MEASURE TWICE. READ FIRST.",
+    "style": "double_banner",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 222,
+    "filename": "b3-222-circle_badge.png",
+    "scene_prompt": "the book resting on a fireplace mantel, a calculator nearby, cozy evening lamp light, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "WEEKEND PROJECTS START HERE.",
+    "style": "circle_badge",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 223,
+    "filename": "b3-223-guarantee_seal.png",
+    "scene_prompt": "the book resting on a basement workbench, a hammer nearby, soft morning window light, cozy and warm atmosphere.",
+    "category": "workshop",
+    "caption": "RIDES ALONG TO EVERY JOBSITE.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 224,
+    "filename": "b3-224-hero_quote.png",
+    "scene_prompt": "the book resting on a driveway concrete, a wooden pencil nearby, soft afternoon light, clean and orderly composition.",
+    "category": "jobsite",
+    "caption": "THE GUIDE BEHIND THE FINISHED KITCHEN.",
+    "style": "hero_quote",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 225,
+    "filename": "b3-225-bottom.png",
+    "scene_prompt": "the book resting on a picnic table, a thermos nearby, warm desk lamp light, modern and minimal atmosphere.",
+    "category": "outdoor",
+    "caption": "PACKED WITH THE REST OF YOUR TOOLS.",
+    "style": "bottom",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 226,
+    "filename": "b3-226-top_banner.png",
+    "scene_prompt": "the book resting on a kitchen counter, a cordless drill nearby, dramatic warm side lighting, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "STOP GUESSING.",
+    "style": "top_banner",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 227,
+    "filename": "b3-227-corner_badge.png",
+    "scene_prompt": "the book resting on a attic floor beam, a stack of clean folded rags nearby, natural daylight through a garage door, clean and orderly composition.",
+    "category": "home",
+    "caption": "BUILD WITH CONFIDENCE.",
+    "style": "corner_badge",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 228,
+    "filename": "b3-228-ribbon.png",
+    "scene_prompt": "the book resting on a kitchen counter, a pair of leather work gloves nearby, cozy evening lamp light, cozy and warm atmosphere.",
+    "category": "home",
+    "caption": "THE ONLY GUIDE YOU'LL NEED.",
+    "style": "ribbon",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 229,
+    "filename": "b3-229-side_bar.png",
+    "scene_prompt": "the book resting on a wooden staircase step, light sawdust scattered nearby nearby, warm golden hour light, cozy and warm atmosphere.",
+    "category": "home",
+    "caption": "TIRED OF GUESSING WHAT'S NEXT?",
+    "style": "side_bar",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 230,
+    "filename": "b3-230-color_block.png",
+    "scene_prompt": "the book resting on a car passenger seat, a water bottle nearby, natural daylight through a garage door, clean and orderly composition.",
+    "category": "vehicle",
+    "caption": "DON'T START WITHOUT IT.",
+    "style": "color_block",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 231,
+    "filename": "b3-231-stat_callout.png",
+    "scene_prompt": "the book resting on a picnic table, a notepad and pen nearby, blue hour dusk light, modern and minimal atmosphere.",
+    "category": "outdoor",
+    "caption": "THE MANUAL YOUR CONTRACTOR DOESN'T WANT YOU TO HAVE.",
+    "style": "stat_callout",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 232,
+    "filename": "b3-232-review_badge.png",
+    "scene_prompt": "the book resting on a basement workbench, a hammer nearby, soft afternoon light, clean and orderly composition.",
+    "category": "workshop",
+    "caption": "YOU ONLY NEED ONE.",
+    "style": "review_badge",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 233,
+    "filename": "b3-233-checklist.png",
+    "scene_prompt": "the book resting on a wheelbarrow edge, a tape dispenser nearby, dramatic warm side lighting, cozy and warm atmosphere.",
+    "category": "jobsite",
+    "caption": "KNOW THE BUILD BEFORE THE BUILD STARTS.",
+    "style": "checklist",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 234,
+    "filename": "b3-234-sticky_note.png",
+    "scene_prompt": "the book resting on a garage floor mat, a steaming cup of coffee nearby, dramatic warm side lighting, cozy and warm atmosphere.",
+    "category": "workshop",
+    "caption": "THE FIRST FIFTY PAGES CHANGE HOW YOU SEE THE JOB.",
+    "style": "sticky_note",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 235,
+    "filename": "b3-235-double_banner.png",
+    "scene_prompt": "the book resting on a picnic table, a rolled-up tape measure nearby, overcast diffused daylight, cozy and warm atmosphere.",
+    "category": "outdoor",
+    "caption": "OWNER-BUILDERS PASS THIS ONE AROUND.",
+    "style": "double_banner",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 236,
+    "filename": "b3-236-circle_badge.png",
+    "scene_prompt": "the book resting on a laundry room shelf, a tape dispenser nearby, dramatic warm side lighting, cozy and warm atmosphere.",
+    "category": "home",
+    "caption": "A LABELED DIAGRAM AT NEARLY EVERY STEP.",
+    "style": "circle_badge",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 237,
+    "filename": "b3-237-guarantee_seal.png",
+    "scene_prompt": "the book resting on a stack of plywood sheets, a level tool nearby, bright midday sun, clean and orderly composition.",
+    "category": "jobsite",
+    "caption": "WRITTEN IN THE ORDER HOUSES GET BUILT.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 238,
+    "filename": "b3-238-hero_quote.png",
+    "scene_prompt": "the book resting on a outdoor bench, a set of house keys nearby, overcast diffused daylight, rustic and lived-in atmosphere.",
+    "category": "outdoor",
+    "caption": "700 PAGES. ONE SEQUENCE. FOUNDATION TO FINISH.",
+    "style": "hero_quote",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 239,
+    "filename": "b3-239-bottom.png",
+    "scene_prompt": "the book resting on a laundry room shelf, a water bottle nearby, warm golden hour light, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "THE JOBSITE ANSWER, BEFORE THE JOBSITE QUESTION.",
+    "style": "bottom",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 240,
+    "filename": "b3-240-top_banner.png",
+    "scene_prompt": "the book resting on a wooden staircase step, a stainless steel travel mug nearby, warm golden hour light, clean and orderly composition.",
+    "category": "home",
+    "caption": "QUESTION THE QUOTE. UNDERSTAND EVERY LINE.",
+    "style": "top_banner",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 241,
+    "filename": "b3-241-corner_badge.png",
+    "scene_prompt": "the book resting on a wooden staircase step, a yellow hard hat nearby, warm desk lamp light, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "CATCH THE SHORTCUT BEFORE THE WALLS CLOSE.",
+    "style": "corner_badge",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 242,
+    "filename": "b3-242-ribbon.png",
+    "scene_prompt": "the book resting on a wheelbarrow edge, a rolled-up tape measure nearby, bright midday sun, modern and minimal atmosphere.",
+    "category": "jobsite",
+    "caption": "THE REFERENCE THAT STAYS ON THE BENCH.",
+    "style": "ribbon",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 243,
+    "filename": "b3-243-side_bar.png",
+    "scene_prompt": "the book resting on a wooden workbench, a closed paint can and roller nearby, warm golden hour light, rustic and lived-in atmosphere.",
+    "category": "workshop",
+    "caption": "FOUNDATION TO FINISH, IN ORDER.",
+    "style": "side_bar",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 244,
+    "filename": "b3-244-color_block.png",
+    "scene_prompt": "the book resting on a porch step, a small potted plant nearby, warm desk lamp light, shallow depth of field, blurred background.",
+    "category": "outdoor",
+    "caption": "NOT A TUTORIAL FOLDER. A COMPLETE SEQUENCE.",
+    "style": "color_block",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 245,
+    "filename": "b3-245-stat_callout.png",
+    "scene_prompt": "the book resting on a window sill, a tape dispenser nearby, natural daylight through a garage door, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "THE BOOK THAT REPLACED 312 SAVED VIDEOS.",
+    "style": "stat_callout",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 246,
+    "filename": "b3-246-review_badge.png",
+    "scene_prompt": "the book resting on a car passenger seat, a stainless steel travel mug nearby, bright midday sun, shallow depth of field, blurred background.",
+    "category": "vehicle",
+    "caption": "THE PLAN BEFORE THE POUR.",
+    "style": "review_badge",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 247,
+    "filename": "b3-247-checklist.png",
+    "scene_prompt": "the book resting on a porch step, a rolled-up tape measure nearby, soft afternoon light, rustic and lived-in atmosphere.",
+    "category": "outdoor",
+    "caption": "EVERY PHASE. COVERED.",
+    "style": "checklist",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 248,
+    "filename": "b3-248-sticky_note.png",
+    "scene_prompt": "the book resting on a driveway concrete, a stainless steel travel mug nearby, warm golden hour light, clean and orderly composition.",
+    "category": "jobsite",
+    "caption": "BUILT FOR PEOPLE WHO SHOW UP EVERY DAY.",
+    "style": "sticky_note",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 249,
+    "filename": "b3-249-double_banner.png",
+    "scene_prompt": "the book resting on a wheelbarrow edge, a box of screws nearby, blue hour dusk light, rustic and lived-in atmosphere.",
+    "category": "jobsite",
+    "caption": "READ IT BEFORE YOU BREAK GROUND.",
+    "style": "double_banner",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 250,
+    "filename": "b3-250-circle_badge.png",
+    "scene_prompt": "the book resting on a granite countertop, a thermos nearby, overcast diffused daylight, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "START YOUR DAY WHERE THE BUILD STARTS.",
+    "style": "circle_badge",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 251,
+    "filename": "b3-251-guarantee_seal.png",
+    "scene_prompt": "the book resting on a basement workbench, reading glasses nearby, bright midday sun, rustic and lived-in atmosphere.",
+    "category": "workshop",
+    "caption": "ONE RUNG AT A TIME. ONE CHAPTER AT A TIME.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 252,
+    "filename": "b3-252-hero_quote.png",
+    "scene_prompt": "the book resting on a car passenger seat, a level tool nearby, dramatic warm side lighting, clean and orderly composition.",
+    "category": "vehicle",
+    "caption": "KNOW THE NUMBERS BEFORE THEY KNOW YOU DON'T.",
+    "style": "hero_quote",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 253,
+    "filename": "b3-253-bottom.png",
+    "scene_prompt": "the book resting on a stack of plywood sheets, a pair of leather work gloves nearby, soft afternoon light, cozy and warm atmosphere.",
+    "category": "jobsite",
+    "caption": "LUNCH BREAK READING THAT PAYS OFF.",
+    "style": "bottom",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 254,
+    "filename": "b3-254-top_banner.png",
+    "scene_prompt": "the book resting on a living room coffee table, a pair of work boots nearby, blue hour dusk light, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "PACK IT LIKE A TOOL. USE IT LIKE ONE.",
+    "style": "top_banner",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 255,
+    "filename": "b3-255-corner_badge.png",
+    "scene_prompt": "the book resting on a porch swing cushion, a box of screws nearby, warm golden hour light, rustic and lived-in atmosphere.",
+    "category": "outdoor",
+    "caption": "THE BOOK THAT GOT US HERE.",
+    "style": "corner_badge",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 256,
+    "filename": "b3-256-ribbon.png",
+    "scene_prompt": "the book resting on a wooden staircase step, a calculator nearby, natural daylight through a garage door, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "SKIP THE FORUMS. READ THE BOOK.",
+    "style": "ribbon",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 257,
+    "filename": "b3-257-side_bar.png",
+    "scene_prompt": "the book resting on a stack of plywood sheets, a calculator nearby, soft morning window light, cozy and warm atmosphere.",
+    "category": "jobsite",
+    "caption": "WHERE THE ANSWERS ACTUALLY LIVE.",
+    "style": "side_bar",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 258,
+    "filename": "b3-258-color_block.png",
+    "scene_prompt": "the book resting on a ladder rung, safety goggles nearby, warm desk lamp light, rustic and lived-in atmosphere.",
+    "category": "workshop",
+    "caption": "MORE USEFUL THAN THE LUMBER YARD GUY.",
+    "style": "color_block",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 259,
+    "filename": "b3-259-stat_callout.png",
+    "scene_prompt": "the book resting on a basement workbench, a box of screws nearby, soft afternoon light, modern and minimal atmosphere.",
+    "category": "workshop",
+    "caption": "HOMEWORK FOR THE HOME YOU'RE BUILDING.",
+    "style": "stat_callout",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 260,
+    "filename": "b3-260-review_badge.png",
+    "scene_prompt": "the book resting on a attic floor beam, a pair of leather work gloves nearby, natural daylight through a garage door, clean and orderly composition.",
+    "category": "home",
+    "caption": "FROM FRAMING TO FINISH, ONE BOOK.",
+    "style": "review_badge",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 261,
+    "filename": "b3-261-checklist.png",
+    "scene_prompt": "the book resting on a plywood sawhorse table, a closed paint can and roller nearby, dramatic warm side lighting, cozy and warm atmosphere.",
+    "category": "jobsite",
+    "caption": "READ IT BEFORE THE FIRST DELIVERY ARRIVES.",
+    "style": "checklist",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 262,
+    "filename": "b3-262-sticky_note.png",
+    "scene_prompt": "the book resting on a scaffolding plank, a small toolbox nearby, warm golden hour light, clean and orderly composition.",
+    "category": "jobsite",
+    "caption": "MEASURE TWICE. READ FIRST.",
+    "style": "sticky_note",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 263,
+    "filename": "b3-263-double_banner.png",
+    "scene_prompt": "the book resting on a ladder rung, a steaming cup of coffee nearby, soft afternoon light, rustic and lived-in atmosphere.",
+    "category": "workshop",
+    "caption": "WEEKEND PROJECTS START HERE.",
+    "style": "double_banner",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 264,
+    "filename": "b3-264-circle_badge.png",
+    "scene_prompt": "the book resting on a wheelbarrow edge, a rolled-up tape measure nearby, soft morning window light, shallow depth of field, blurred background.",
+    "category": "jobsite",
+    "caption": "RIDES ALONG TO EVERY JOBSITE.",
+    "style": "circle_badge",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 265,
+    "filename": "b3-265-guarantee_seal.png",
+    "scene_prompt": "the book resting on a window sill, a pair of work boots nearby, natural daylight through a garage door, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "THE GUIDE BEHIND THE FINISHED KITCHEN.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 266,
+    "filename": "b3-266-hero_quote.png",
+    "scene_prompt": "the book resting on a living room coffee table, a level tool nearby, soft afternoon light, clean and orderly composition.",
+    "category": "home",
+    "caption": "PACKED WITH THE REST OF YOUR TOOLS.",
+    "style": "hero_quote",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 267,
+    "filename": "b3-267-bottom.png",
+    "scene_prompt": "the book resting on a bathroom vanity, a steaming cup of coffee nearby, warm desk lamp light, cozy and warm atmosphere.",
+    "category": "home",
+    "caption": "STOP GUESSING.",
+    "style": "bottom",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 268,
+    "filename": "b3-268-top_banner.png",
+    "scene_prompt": "the book resting on a kitchen counter, a pair of leather work gloves nearby, soft afternoon light, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "BUILD WITH CONFIDENCE.",
+    "style": "top_banner",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 269,
+    "filename": "b3-269-corner_badge.png",
+    "scene_prompt": "the book resting on a porch step, a cordless drill nearby, bright midday sun, modern and minimal atmosphere.",
+    "category": "outdoor",
+    "caption": "THE ONLY GUIDE YOU'LL NEED.",
+    "style": "corner_badge",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 270,
+    "filename": "b3-270-ribbon.png",
+    "scene_prompt": "the book resting on a stack of plywood sheets, a water bottle nearby, soft afternoon light, modern and minimal atmosphere.",
+    "category": "jobsite",
+    "caption": "TIRED OF GUESSING WHAT'S NEXT?",
+    "style": "ribbon",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 271,
+    "filename": "b3-271-side_bar.png",
+    "scene_prompt": "the book resting on a driveway concrete, a hammer nearby, warm desk lamp light, shallow depth of field, blurred background.",
+    "category": "jobsite",
+    "caption": "DON'T START WITHOUT IT.",
+    "style": "side_bar",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 272,
+    "filename": "b3-272-color_block.png",
+    "scene_prompt": "the book resting on a fireplace mantel, a set of house keys nearby, cozy evening lamp light, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "THE MANUAL YOUR CONTRACTOR DOESN'T WANT YOU TO HAVE.",
+    "style": "color_block",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 273,
+    "filename": "b3-273-stat_callout.png",
+    "scene_prompt": "the book resting on a metal toolbox lid, a closed paint can and roller nearby, soft afternoon light, modern and minimal atmosphere.",
+    "category": "workshop",
+    "caption": "YOU ONLY NEED ONE.",
+    "style": "stat_callout",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 274,
+    "filename": "b3-274-review_badge.png",
+    "scene_prompt": "the book resting on a stack of plywood sheets, a canvas tool belt nearby, soft afternoon light, professional and organized atmosphere.",
+    "category": "jobsite",
+    "caption": "KNOW THE BUILD BEFORE THE BUILD STARTS.",
+    "style": "review_badge",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 275,
+    "filename": "b3-275-checklist.png",
+    "scene_prompt": "the book resting on a picnic table, a stainless steel travel mug nearby, dramatic warm side lighting, rustic and lived-in atmosphere.",
+    "category": "outdoor",
+    "caption": "THE FIRST FIFTY PAGES CHANGE HOW YOU SEE THE JOB.",
+    "style": "checklist",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 276,
+    "filename": "b3-276-sticky_note.png",
+    "scene_prompt": "the book resting on a wooden desk, a rolled-up tape measure nearby, cozy evening lamp light, professional and organized atmosphere.",
+    "category": "office",
+    "caption": "OWNER-BUILDERS PASS THIS ONE AROUND.",
+    "style": "sticky_note",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 277,
+    "filename": "b3-277-double_banner.png",
+    "scene_prompt": "the book resting on a kitchen island, a tape dispenser nearby, warm golden hour light, clean and orderly composition.",
+    "category": "home",
+    "caption": "A LABELED DIAGRAM AT NEARLY EVERY STEP.",
+    "style": "double_banner",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 278,
+    "filename": "b3-278-circle_badge.png",
+    "scene_prompt": "the book resting on a living room coffee table, a stainless steel travel mug nearby, blue hour dusk light, cozy and warm atmosphere.",
+    "category": "home",
+    "caption": "WRITTEN IN THE ORDER HOUSES GET BUILT.",
+    "style": "circle_badge",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 279,
+    "filename": "b3-279-guarantee_seal.png",
+    "scene_prompt": "the book resting on a scaffolding plank, a small toolbox nearby, natural daylight through a garage door, modern and minimal atmosphere.",
+    "category": "jobsite",
+    "caption": "700 PAGES. ONE SEQUENCE. FOUNDATION TO FINISH.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 280,
+    "filename": "b3-280-hero_quote.png",
+    "scene_prompt": "the book resting on a plywood sawhorse table, a yellow hard hat nearby, dramatic warm side lighting, cozy and warm atmosphere.",
+    "category": "jobsite",
+    "caption": "THE JOBSITE ANSWER, BEFORE THE JOBSITE QUESTION.",
+    "style": "hero_quote",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 281,
+    "filename": "b3-281-bottom.png",
+    "scene_prompt": "the book resting on a porch step, a cordless drill nearby, overcast diffused daylight, clean and orderly composition.",
+    "category": "outdoor",
+    "caption": "QUESTION THE QUOTE. UNDERSTAND EVERY LINE.",
+    "style": "bottom",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 282,
+    "filename": "b3-282-top_banner.png",
+    "scene_prompt": "the book resting on a scaffolding plank, a thermos nearby, overcast diffused daylight, shallow depth of field, blurred background.",
+    "category": "jobsite",
+    "caption": "CATCH THE SHORTCUT BEFORE THE WALLS CLOSE.",
+    "style": "top_banner",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 283,
+    "filename": "b3-283-corner_badge.png",
+    "scene_prompt": "the book resting on a laundry room shelf, a cordless drill nearby, dramatic warm side lighting, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "THE REFERENCE THAT STAYS ON THE BENCH.",
+    "style": "corner_badge",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 284,
+    "filename": "b3-284-ribbon.png",
+    "scene_prompt": "the book resting on a plywood sawhorse table, reading glasses nearby, dramatic warm side lighting, modern and minimal atmosphere.",
+    "category": "jobsite",
+    "caption": "FOUNDATION TO FINISH, IN ORDER.",
+    "style": "ribbon",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 285,
+    "filename": "b3-285-side_bar.png",
+    "scene_prompt": "the book resting on a bathroom vanity, a small toolbox nearby, warm desk lamp light, cozy and warm atmosphere.",
+    "category": "home",
+    "caption": "NOT A TUTORIAL FOLDER. A COMPLETE SEQUENCE.",
+    "style": "side_bar",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 286,
+    "filename": "b3-286-color_block.png",
+    "scene_prompt": "the book resting on a outdoor bench, a water bottle nearby, overcast diffused daylight, rustic and lived-in atmosphere.",
+    "category": "outdoor",
+    "caption": "THE BOOK THAT REPLACED 312 SAVED VIDEOS.",
+    "style": "color_block",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 287,
+    "filename": "b3-287-stat_callout.png",
+    "scene_prompt": "the book resting on a laundry room shelf, a cordless drill nearby, natural daylight through a garage door, cozy and warm atmosphere.",
+    "category": "home",
+    "caption": "THE PLAN BEFORE THE POUR.",
+    "style": "stat_callout",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 288,
+    "filename": "b3-288-review_badge.png",
+    "scene_prompt": "the book resting on a scaffolding plank, a pair of work boots nearby, dramatic warm side lighting, clean and orderly composition.",
+    "category": "jobsite",
+    "caption": "EVERY PHASE. COVERED.",
+    "style": "review_badge",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 289,
+    "filename": "b3-289-checklist.png",
+    "scene_prompt": "the book resting on a wooden workbench, a rolled-up tape measure nearby, warm golden hour light, modern and minimal atmosphere.",
+    "category": "workshop",
+    "caption": "BUILT FOR PEOPLE WHO SHOW UP EVERY DAY.",
+    "style": "checklist",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 290,
+    "filename": "b3-290-sticky_note.png",
+    "scene_prompt": "the book resting on a picnic table, a small potted plant nearby, natural daylight through a garage door, modern and minimal atmosphere.",
+    "category": "outdoor",
+    "caption": "READ IT BEFORE YOU BREAK GROUND.",
+    "style": "sticky_note",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 291,
+    "filename": "b3-291-double_banner.png",
+    "scene_prompt": "the book resting on a porch swing cushion, a hammer nearby, warm desk lamp light, rustic and lived-in atmosphere.",
+    "category": "outdoor",
+    "caption": "START YOUR DAY WHERE THE BUILD STARTS.",
+    "style": "double_banner",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 292,
+    "filename": "b3-292-circle_badge.png",
+    "scene_prompt": "the book resting on a driveway concrete, light sawdust scattered nearby nearby, overcast diffused daylight, rustic and lived-in atmosphere.",
+    "category": "jobsite",
+    "caption": "ONE RUNG AT A TIME. ONE CHAPTER AT A TIME.",
+    "style": "circle_badge",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 293,
+    "filename": "b3-293-guarantee_seal.png",
+    "scene_prompt": "the book resting on a kitchen island, safety goggles nearby, dramatic warm side lighting, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "KNOW THE NUMBERS BEFORE THEY KNOW YOU DON'T.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 294,
+    "filename": "b3-294-hero_quote.png",
+    "scene_prompt": "the book resting on a folding camp chair armrest, a closed paint can and roller nearby, dramatic warm side lighting, modern and minimal atmosphere.",
+    "category": "outdoor",
+    "caption": "LUNCH BREAK READING THAT PAYS OFF.",
+    "style": "hero_quote",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 295,
+    "filename": "b3-295-bottom.png",
+    "scene_prompt": "the book resting on a picnic table, a small toolbox nearby, warm golden hour light, rustic and lived-in atmosphere.",
+    "category": "outdoor",
+    "caption": "PACK IT LIKE A TOOL. USE IT LIKE ONE.",
+    "style": "bottom",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 296,
+    "filename": "b3-296-top_banner.png",
+    "scene_prompt": "the book resting on a plywood sawhorse table, reading glasses nearby, cozy evening lamp light, cozy and warm atmosphere.",
+    "category": "jobsite",
+    "caption": "THE BOOK THAT GOT US HERE.",
+    "style": "top_banner",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 297,
+    "filename": "b3-297-corner_badge.png",
+    "scene_prompt": "the book resting on a wheelbarrow edge, a tape dispenser nearby, warm desk lamp light, shallow depth of field, blurred background.",
+    "category": "jobsite",
+    "caption": "SKIP THE FORUMS. READ THE BOOK.",
+    "style": "corner_badge",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 298,
+    "filename": "b3-298-ribbon.png",
+    "scene_prompt": "the book resting on a attic floor beam, light sawdust scattered nearby nearby, dramatic warm side lighting, clean and orderly composition.",
+    "category": "home",
+    "caption": "WHERE THE ANSWERS ACTUALLY LIVE.",
+    "style": "ribbon",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 299,
+    "filename": "b3-299-side_bar.png",
+    "scene_prompt": "the book resting on a bathroom vanity, a tape dispenser nearby, cozy evening lamp light, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "MORE USEFUL THAN THE LUMBER YARD GUY.",
+    "style": "side_bar",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 300,
+    "filename": "b3-300-color_block.png",
+    "scene_prompt": "the book resting on a granite countertop, a stack of clean folded rags nearby, cozy evening lamp light, cozy and warm atmosphere.",
+    "category": "home",
+    "caption": "HOMEWORK FOR THE HOME YOU'RE BUILDING.",
+    "style": "color_block",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 301,
+    "filename": "b3-301-stat_callout.png",
+    "scene_prompt": "the book resting on a fireplace mantel, a stack of clean folded rags nearby, cozy evening lamp light, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "FROM FRAMING TO FINISH, ONE BOOK.",
+    "style": "stat_callout",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 302,
+    "filename": "b3-302-review_badge.png",
+    "scene_prompt": "the book resting on a garage floor mat, safety goggles nearby, warm desk lamp light, rustic and lived-in atmosphere.",
+    "category": "workshop",
+    "caption": "READ IT BEFORE THE FIRST DELIVERY ARRIVES.",
+    "style": "review_badge",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 303,
+    "filename": "b3-303-checklist.png",
+    "scene_prompt": "the book resting on a driveway concrete, safety goggles nearby, warm golden hour light, shallow depth of field, blurred background.",
+    "category": "jobsite",
+    "caption": "MEASURE TWICE. READ FIRST.",
+    "style": "checklist",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 304,
+    "filename": "b3-304-sticky_note.png",
+    "scene_prompt": "the book resting on a outdoor bench, a claw hammer and chalk line nearby, soft afternoon light, shallow depth of field, blurred background.",
+    "category": "outdoor",
+    "caption": "WEEKEND PROJECTS START HERE.",
+    "style": "sticky_note",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 305,
+    "filename": "b3-305-double_banner.png",
+    "scene_prompt": "the book resting on a wooden staircase step, a calculator nearby, warm golden hour light, clean and orderly composition.",
+    "category": "home",
+    "caption": "RIDES ALONG TO EVERY JOBSITE.",
+    "style": "double_banner",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 306,
+    "filename": "b3-306-circle_badge.png",
+    "scene_prompt": "the book resting on a picnic table, a pair of work boots nearby, warm desk lamp light, modern and minimal atmosphere.",
+    "category": "outdoor",
+    "caption": "THE GUIDE BEHIND THE FINISHED KITCHEN.",
+    "style": "circle_badge",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 307,
+    "filename": "b3-307-guarantee_seal.png",
+    "scene_prompt": "the book resting on a front door mat, a coil of yellow extension cord nearby, overcast diffused daylight, modern and minimal atmosphere.",
+    "category": "outdoor",
+    "caption": "PACKED WITH THE REST OF YOUR TOOLS.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 308,
+    "filename": "b3-308-hero_quote.png",
+    "scene_prompt": "the book resting on a garage floor mat, a hammer nearby, dramatic warm side lighting, shallow depth of field, blurred background.",
+    "category": "workshop",
+    "caption": "STOP GUESSING.",
+    "style": "hero_quote",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 309,
+    "filename": "b3-309-bottom.png",
+    "scene_prompt": "the book resting on a metal toolbox lid, a stainless steel travel mug nearby, warm golden hour light, modern and minimal atmosphere.",
+    "category": "workshop",
+    "caption": "BUILD WITH CONFIDENCE.",
+    "style": "bottom",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 310,
+    "filename": "b3-310-top_banner.png",
+    "scene_prompt": "the book resting on a porch step, a small toolbox nearby, natural daylight through a garage door, modern and minimal atmosphere.",
+    "category": "outdoor",
+    "caption": "THE ONLY GUIDE YOU'LL NEED.",
+    "style": "top_banner",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 311,
+    "filename": "b3-311-corner_badge.png",
+    "scene_prompt": "the book resting on a ladder rung, a yellow hard hat nearby, blue hour dusk light, shallow depth of field, blurred background.",
+    "category": "workshop",
+    "caption": "TIRED OF GUESSING WHAT'S NEXT?",
+    "style": "corner_badge",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 312,
+    "filename": "b3-312-ribbon.png",
+    "scene_prompt": "the book resting on a porch swing cushion, a box of screws nearby, soft afternoon light, shallow depth of field, blurred background.",
+    "category": "outdoor",
+    "caption": "DON'T START WITHOUT IT.",
+    "style": "ribbon",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 313,
+    "filename": "b3-313-side_bar.png",
+    "scene_prompt": "the book resting on a garage floor mat, a small toolbox nearby, cozy evening lamp light, professional and organized atmosphere.",
+    "category": "workshop",
+    "caption": "THE MANUAL YOUR CONTRACTOR DOESN'T WANT YOU TO HAVE.",
+    "style": "side_bar",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 314,
+    "filename": "b3-314-color_block.png",
+    "scene_prompt": "the book resting on a porch step, a yellow hard hat nearby, dramatic warm side lighting, clean and orderly composition.",
+    "category": "outdoor",
+    "caption": "YOU ONLY NEED ONE.",
+    "style": "color_block",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 315,
+    "filename": "b3-315-stat_callout.png",
+    "scene_prompt": "the book resting on a attic floor beam, a canvas tool belt nearby, bright midday sun, modern and minimal atmosphere.",
+    "category": "home",
+    "caption": "KNOW THE BUILD BEFORE THE BUILD STARTS.",
+    "style": "stat_callout",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 316,
+    "filename": "b3-316-review_badge.png",
+    "scene_prompt": "the book resting on a kitchen island, a small potted plant nearby, soft afternoon light, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "THE FIRST FIFTY PAGES CHANGE HOW YOU SEE THE JOB.",
+    "style": "review_badge",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 317,
+    "filename": "b3-317-checklist.png",
+    "scene_prompt": "the book resting on a living room coffee table, a level tool nearby, overcast diffused daylight, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "OWNER-BUILDERS PASS THIS ONE AROUND.",
+    "style": "checklist",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 318,
+    "filename": "b3-318-sticky_note.png",
+    "scene_prompt": "the book resting on a bathroom vanity, a yellow hard hat nearby, natural daylight through a garage door, clean and orderly composition.",
+    "category": "home",
+    "caption": "A LABELED DIAGRAM AT NEARLY EVERY STEP.",
+    "style": "sticky_note",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 319,
+    "filename": "b3-319-double_banner.png",
+    "scene_prompt": "the book resting on a granite countertop, a tape dispenser nearby, cozy evening lamp light, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "WRITTEN IN THE ORDER HOUSES GET BUILT.",
+    "style": "double_banner",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 320,
+    "filename": "b3-320-circle_badge.png",
+    "scene_prompt": "the book resting on a granite countertop, a canvas tool belt nearby, overcast diffused daylight, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "700 PAGES. ONE SEQUENCE. FOUNDATION TO FINISH.",
+    "style": "circle_badge",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 321,
+    "filename": "b3-321-guarantee_seal.png",
+    "scene_prompt": "the book resting on a garage floor mat, reading glasses nearby, cozy evening lamp light, clean and orderly composition.",
+    "category": "workshop",
+    "caption": "THE JOBSITE ANSWER, BEFORE THE JOBSITE QUESTION.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 322,
+    "filename": "b3-322-hero_quote.png",
+    "scene_prompt": "the book resting on a wooden workbench, a closed paint can and roller nearby, dramatic warm side lighting, rustic and lived-in atmosphere.",
+    "category": "workshop",
+    "caption": "QUESTION THE QUOTE. UNDERSTAND EVERY LINE.",
+    "style": "hero_quote",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 323,
+    "filename": "b3-323-bottom.png",
+    "scene_prompt": "the book resting on a wooden staircase step, a tape dispenser nearby, dramatic warm side lighting, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "CATCH THE SHORTCUT BEFORE THE WALLS CLOSE.",
+    "style": "bottom",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 324,
+    "filename": "b3-324-top_banner.png",
+    "scene_prompt": "the book resting on a garage floor mat, a small potted plant nearby, warm golden hour light, shallow depth of field, blurred background.",
+    "category": "workshop",
+    "caption": "THE REFERENCE THAT STAYS ON THE BENCH.",
+    "style": "top_banner",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 325,
+    "filename": "b3-325-corner_badge.png",
+    "scene_prompt": "the book resting on a porch swing cushion, a wooden pencil nearby, blue hour dusk light, rustic and lived-in atmosphere.",
+    "category": "outdoor",
+    "caption": "FOUNDATION TO FINISH, IN ORDER.",
+    "style": "corner_badge",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 326,
+    "filename": "b3-326-ribbon.png",
+    "scene_prompt": "the book resting on a basement workbench, a calculator nearby, warm golden hour light, clean and orderly composition.",
+    "category": "workshop",
+    "caption": "NOT A TUTORIAL FOLDER. A COMPLETE SEQUENCE.",
+    "style": "ribbon",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 327,
+    "filename": "b3-327-side_bar.png",
+    "scene_prompt": "the book resting on a truck tailgate, a level tool nearby, bright midday sun, cozy and warm atmosphere.",
+    "category": "jobsite",
+    "caption": "THE BOOK THAT REPLACED 312 SAVED VIDEOS.",
+    "style": "side_bar",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 328,
+    "filename": "b3-328-color_block.png",
+    "scene_prompt": "the book resting on a fireplace mantel, a small toolbox nearby, soft morning window light, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "THE PLAN BEFORE THE POUR.",
+    "style": "color_block",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 329,
+    "filename": "b3-329-stat_callout.png",
+    "scene_prompt": "the book resting on a scaffolding plank, a yellow hard hat nearby, natural daylight through a garage door, shallow depth of field, blurred background.",
+    "category": "jobsite",
+    "caption": "EVERY PHASE. COVERED.",
+    "style": "stat_callout",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 330,
+    "filename": "b3-330-review_badge.png",
+    "scene_prompt": "the book resting on a granite countertop, a tape dispenser nearby, bright midday sun, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "BUILT FOR PEOPLE WHO SHOW UP EVERY DAY.",
+    "style": "review_badge",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 331,
+    "filename": "b3-331-checklist.png",
+    "scene_prompt": "the book resting on a wheelbarrow edge, safety goggles nearby, warm golden hour light, clean and orderly composition.",
+    "category": "jobsite",
+    "caption": "READ IT BEFORE YOU BREAK GROUND.",
+    "style": "checklist",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 332,
+    "filename": "b3-332-sticky_note.png",
+    "scene_prompt": "the book resting on a ladder rung, a level tool nearby, dramatic warm side lighting, shallow depth of field, blurred background.",
+    "category": "workshop",
+    "caption": "START YOUR DAY WHERE THE BUILD STARTS.",
+    "style": "sticky_note",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 333,
+    "filename": "b3-333-double_banner.png",
+    "scene_prompt": "the book resting on a living room coffee table, a rolled-up tape measure nearby, warm golden hour light, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "ONE RUNG AT A TIME. ONE CHAPTER AT A TIME.",
+    "style": "double_banner",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 334,
+    "filename": "b3-334-circle_badge.png",
+    "scene_prompt": "the book resting on a wooden workbench, a wooden pencil nearby, bright midday sun, modern and minimal atmosphere.",
+    "category": "workshop",
+    "caption": "KNOW THE NUMBERS BEFORE THEY KNOW YOU DON'T.",
+    "style": "circle_badge",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 335,
+    "filename": "b3-335-guarantee_seal.png",
+    "scene_prompt": "the book resting on a wooden desk, a box of screws nearby, blue hour dusk light, rustic and lived-in atmosphere.",
+    "category": "office",
+    "caption": "LUNCH BREAK READING THAT PAYS OFF.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 336,
+    "filename": "b3-336-hero_quote.png",
+    "scene_prompt": "the book resting on a porch swing cushion, a tape dispenser nearby, natural daylight through a garage door, cozy and warm atmosphere.",
+    "category": "outdoor",
+    "caption": "PACK IT LIKE A TOOL. USE IT LIKE ONE.",
+    "style": "hero_quote",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 337,
+    "filename": "b3-337-bottom.png",
+    "scene_prompt": "the book resting on a metal toolbox lid, a yellow hard hat nearby, warm desk lamp light, cozy and warm atmosphere.",
+    "category": "workshop",
+    "caption": "THE BOOK THAT GOT US HERE.",
+    "style": "bottom",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 338,
+    "filename": "b3-338-top_banner.png",
+    "scene_prompt": "the book resting on a driveway concrete, a box of screws nearby, natural daylight through a garage door, rustic and lived-in atmosphere.",
+    "category": "jobsite",
+    "caption": "SKIP THE FORUMS. READ THE BOOK.",
+    "style": "top_banner",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 339,
+    "filename": "b3-339-corner_badge.png",
+    "scene_prompt": "the book resting on a plywood sawhorse table, a notepad and pen nearby, bright midday sun, rustic and lived-in atmosphere.",
+    "category": "jobsite",
+    "caption": "WHERE THE ANSWERS ACTUALLY LIVE.",
+    "style": "corner_badge",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 340,
+    "filename": "b3-340-ribbon.png",
+    "scene_prompt": "the book resting on a ladder rung, a closed paint can and roller nearby, soft morning window light, shallow depth of field, blurred background.",
+    "category": "workshop",
+    "caption": "MORE USEFUL THAN THE LUMBER YARD GUY.",
+    "style": "ribbon",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 341,
+    "filename": "b3-341-side_bar.png",
+    "scene_prompt": "the book resting on a folding camp chair armrest, a hammer nearby, dramatic warm side lighting, rustic and lived-in atmosphere.",
+    "category": "outdoor",
+    "caption": "HOMEWORK FOR THE HOME YOU'RE BUILDING.",
+    "style": "side_bar",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 342,
+    "filename": "b3-342-color_block.png",
+    "scene_prompt": "the book resting on a laundry room shelf, a rolled architectural blueprint tube (closed) nearby, natural daylight through a garage door, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "FROM FRAMING TO FINISH, ONE BOOK.",
+    "style": "color_block",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 343,
+    "filename": "b3-343-stat_callout.png",
+    "scene_prompt": "the book resting on a wooden staircase step, a small potted plant nearby, dramatic warm side lighting, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "READ IT BEFORE THE FIRST DELIVERY ARRIVES.",
+    "style": "stat_callout",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 344,
+    "filename": "b3-344-review_badge.png",
+    "scene_prompt": "the book resting on a nightstand, a calculator nearby, overcast diffused daylight, cozy and warm atmosphere.",
+    "category": "home",
+    "caption": "MEASURE TWICE. READ FIRST.",
+    "style": "review_badge",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 345,
+    "filename": "b3-345-checklist.png",
+    "scene_prompt": "the book resting on a picnic table, a pair of leather work gloves nearby, dramatic warm side lighting, clean and orderly composition.",
+    "category": "outdoor",
+    "caption": "WEEKEND PROJECTS START HERE.",
+    "style": "checklist",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 346,
+    "filename": "b3-346-sticky_note.png",
+    "scene_prompt": "the book resting on a basement workbench, a yellow hard hat nearby, blue hour dusk light, clean and orderly composition.",
+    "category": "workshop",
+    "caption": "RIDES ALONG TO EVERY JOBSITE.",
+    "style": "sticky_note",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 347,
+    "filename": "b3-347-double_banner.png",
+    "scene_prompt": "the book resting on a stack of plywood sheets, a coil of yellow extension cord nearby, soft afternoon light, modern and minimal atmosphere.",
+    "category": "jobsite",
+    "caption": "THE GUIDE BEHIND THE FINISHED KITCHEN.",
+    "style": "double_banner",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 348,
+    "filename": "b3-348-circle_badge.png",
+    "scene_prompt": "the book resting on a attic floor beam, a closed paint can and roller nearby, blue hour dusk light, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "PACKED WITH THE REST OF YOUR TOOLS.",
+    "style": "circle_badge",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 349,
+    "filename": "b3-349-guarantee_seal.png",
+    "scene_prompt": "the book resting on a kitchen counter, a notepad and pen nearby, bright midday sun, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "STOP GUESSING.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 350,
+    "filename": "b3-350-hero_quote.png",
+    "scene_prompt": "the book resting on a ladder rung, a stainless steel travel mug nearby, warm desk lamp light, shallow depth of field, blurred background.",
+    "category": "workshop",
+    "caption": "BUILD WITH CONFIDENCE.",
+    "style": "hero_quote",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 351,
+    "filename": "b3-351-bottom.png",
+    "scene_prompt": "the book resting on a bathroom vanity, a thermos nearby, soft morning window light, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "THE ONLY GUIDE YOU'LL NEED.",
+    "style": "bottom",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 352,
+    "filename": "b3-352-top_banner.png",
+    "scene_prompt": "the book resting on a folding camp chair armrest, a calculator nearby, overcast diffused daylight, cozy and warm atmosphere.",
+    "category": "outdoor",
+    "caption": "TIRED OF GUESSING WHAT'S NEXT?",
+    "style": "top_banner",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 353,
+    "filename": "b3-353-corner_badge.png",
+    "scene_prompt": "the book resting on a picnic table, safety goggles nearby, natural daylight through a garage door, professional and organized atmosphere.",
+    "category": "outdoor",
+    "caption": "DON'T START WITHOUT IT.",
+    "style": "corner_badge",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 354,
+    "filename": "b3-354-ribbon.png",
+    "scene_prompt": "the book resting on a truck tailgate, a box of screws nearby, bright midday sun, rustic and lived-in atmosphere.",
+    "category": "jobsite",
+    "caption": "THE MANUAL YOUR CONTRACTOR DOESN'T WANT YOU TO HAVE.",
+    "style": "ribbon",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 355,
+    "filename": "b3-355-side_bar.png",
+    "scene_prompt": "the book resting on a porch step, a cordless drill nearby, soft afternoon light, clean and orderly composition.",
+    "category": "outdoor",
+    "caption": "YOU ONLY NEED ONE.",
+    "style": "side_bar",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 356,
+    "filename": "b3-356-color_block.png",
+    "scene_prompt": "the book resting on a nightstand, a closed paint can and roller nearby, dramatic warm side lighting, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "KNOW THE BUILD BEFORE THE BUILD STARTS.",
+    "style": "color_block",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 357,
+    "filename": "b3-357-stat_callout.png",
+    "scene_prompt": "the book resting on a wooden desk, a stainless steel travel mug nearby, warm golden hour light, professional and organized atmosphere.",
+    "category": "office",
+    "caption": "THE FIRST FIFTY PAGES CHANGE HOW YOU SEE THE JOB.",
+    "style": "stat_callout",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 358,
+    "filename": "b3-358-review_badge.png",
+    "scene_prompt": "the book resting on a folding camp chair armrest, reading glasses nearby, overcast diffused daylight, rustic and lived-in atmosphere.",
+    "category": "outdoor",
+    "caption": "OWNER-BUILDERS PASS THIS ONE AROUND.",
+    "style": "review_badge",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 359,
+    "filename": "b3-359-checklist.png",
+    "scene_prompt": "the book resting on a front door mat, a pair of leather work gloves nearby, cozy evening lamp light, modern and minimal atmosphere.",
+    "category": "outdoor",
+    "caption": "A LABELED DIAGRAM AT NEARLY EVERY STEP.",
+    "style": "checklist",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 360,
+    "filename": "b3-360-sticky_note.png",
+    "scene_prompt": "the book resting on a bathroom vanity, a notepad and pen nearby, bright midday sun, clean and orderly composition.",
+    "category": "home",
+    "caption": "WRITTEN IN THE ORDER HOUSES GET BUILT.",
+    "style": "sticky_note",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 361,
+    "filename": "b3-361-double_banner.png",
+    "scene_prompt": "the book resting on a nightstand, a water bottle nearby, warm golden hour light, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "700 PAGES. ONE SEQUENCE. FOUNDATION TO FINISH.",
+    "style": "double_banner",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 362,
+    "filename": "b3-362-circle_badge.png",
+    "scene_prompt": "the book resting on a outdoor bench, a level tool nearby, warm desk lamp light, cozy and warm atmosphere.",
+    "category": "outdoor",
+    "caption": "THE JOBSITE ANSWER, BEFORE THE JOBSITE QUESTION.",
+    "style": "circle_badge",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 363,
+    "filename": "b3-363-guarantee_seal.png",
+    "scene_prompt": "the book resting on a laundry room shelf, a rolled-up tape measure nearby, overcast diffused daylight, clean and orderly composition.",
+    "category": "home",
+    "caption": "QUESTION THE QUOTE. UNDERSTAND EVERY LINE.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 364,
+    "filename": "b3-364-hero_quote.png",
+    "scene_prompt": "the book resting on a wooden workbench, a steaming cup of coffee nearby, dramatic warm side lighting, shallow depth of field, blurred background.",
+    "category": "workshop",
+    "caption": "CATCH THE SHORTCUT BEFORE THE WALLS CLOSE.",
+    "style": "hero_quote",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 365,
+    "filename": "b3-365-bottom.png",
+    "scene_prompt": "the book resting on a scaffolding plank, a box of screws nearby, blue hour dusk light, professional and organized atmosphere.",
+    "category": "jobsite",
+    "caption": "THE REFERENCE THAT STAYS ON THE BENCH.",
+    "style": "bottom",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 366,
+    "filename": "b3-366-top_banner.png",
+    "scene_prompt": "the book resting on a laundry room shelf, a level tool nearby, warm desk lamp light, modern and minimal atmosphere.",
+    "category": "home",
+    "caption": "FOUNDATION TO FINISH, IN ORDER.",
+    "style": "top_banner",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 367,
+    "filename": "b3-367-corner_badge.png",
+    "scene_prompt": "the book resting on a wheelbarrow edge, a small potted plant nearby, bright midday sun, rustic and lived-in atmosphere.",
+    "category": "jobsite",
+    "caption": "NOT A TUTORIAL FOLDER. A COMPLETE SEQUENCE.",
+    "style": "corner_badge",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 368,
+    "filename": "b3-368-ribbon.png",
+    "scene_prompt": "the book resting on a kitchen island, a stack of clean folded rags nearby, soft afternoon light, modern and minimal atmosphere.",
+    "category": "home",
+    "caption": "THE BOOK THAT REPLACED 312 SAVED VIDEOS.",
+    "style": "ribbon",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 369,
+    "filename": "b3-369-side_bar.png",
+    "scene_prompt": "the book resting on a wheelbarrow edge, a water bottle nearby, soft morning window light, professional and organized atmosphere.",
+    "category": "jobsite",
+    "caption": "THE PLAN BEFORE THE POUR.",
+    "style": "side_bar",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 370,
+    "filename": "b3-370-color_block.png",
+    "scene_prompt": "the book resting on a driveway concrete, a stainless steel travel mug nearby, soft afternoon light, rustic and lived-in atmosphere.",
+    "category": "jobsite",
+    "caption": "EVERY PHASE. COVERED.",
+    "style": "color_block",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 371,
+    "filename": "b3-371-stat_callout.png",
+    "scene_prompt": "the book resting on a ladder rung, a rolled architectural blueprint tube (closed) nearby, soft afternoon light, cozy and warm atmosphere.",
+    "category": "workshop",
+    "caption": "BUILT FOR PEOPLE WHO SHOW UP EVERY DAY.",
+    "style": "stat_callout",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 372,
+    "filename": "b3-372-review_badge.png",
+    "scene_prompt": "the book resting on a front door mat, a claw hammer and chalk line nearby, soft morning window light, clean and orderly composition.",
+    "category": "outdoor",
+    "caption": "READ IT BEFORE YOU BREAK GROUND.",
+    "style": "review_badge",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 373,
+    "filename": "b3-373-checklist.png",
+    "scene_prompt": "the book resting on a picnic table, a set of house keys nearby, dramatic warm side lighting, rustic and lived-in atmosphere.",
+    "category": "outdoor",
+    "caption": "START YOUR DAY WHERE THE BUILD STARTS.",
+    "style": "checklist",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 374,
+    "filename": "b3-374-sticky_note.png",
+    "scene_prompt": "the book resting on a outdoor bench, a level tool nearby, soft morning window light, modern and minimal atmosphere.",
+    "category": "outdoor",
+    "caption": "ONE RUNG AT A TIME. ONE CHAPTER AT A TIME.",
+    "style": "sticky_note",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 375,
+    "filename": "b3-375-double_banner.png",
+    "scene_prompt": "the book resting on a garage floor mat, a steaming cup of coffee nearby, bright midday sun, rustic and lived-in atmosphere.",
+    "category": "workshop",
+    "caption": "KNOW THE NUMBERS BEFORE THEY KNOW YOU DON'T.",
+    "style": "double_banner",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 376,
+    "filename": "b3-376-circle_badge.png",
+    "scene_prompt": "the book resting on a basement workbench, a tape dispenser nearby, bright midday sun, modern and minimal atmosphere.",
+    "category": "workshop",
+    "caption": "LUNCH BREAK READING THAT PAYS OFF.",
+    "style": "circle_badge",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 377,
+    "filename": "b3-377-guarantee_seal.png",
+    "scene_prompt": "the book resting on a wooden workbench, a box of screws nearby, cozy evening lamp light, professional and organized atmosphere.",
+    "category": "workshop",
+    "caption": "PACK IT LIKE A TOOL. USE IT LIKE ONE.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 378,
+    "filename": "b3-378-hero_quote.png",
+    "scene_prompt": "the book resting on a garage floor mat, a level tool nearby, bright midday sun, rustic and lived-in atmosphere.",
+    "category": "workshop",
+    "caption": "THE BOOK THAT GOT US HERE.",
+    "style": "hero_quote",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 379,
+    "filename": "b3-379-bottom.png",
+    "scene_prompt": "the book resting on a ladder rung, a water bottle nearby, overcast diffused daylight, cozy and warm atmosphere.",
+    "category": "workshop",
+    "caption": "SKIP THE FORUMS. READ THE BOOK.",
+    "style": "bottom",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 380,
+    "filename": "b3-380-top_banner.png",
+    "scene_prompt": "the book resting on a scaffolding plank, a stack of clean folded rags nearby, overcast diffused daylight, shallow depth of field, blurred background.",
+    "category": "jobsite",
+    "caption": "WHERE THE ANSWERS ACTUALLY LIVE.",
+    "style": "top_banner",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 381,
+    "filename": "b3-381-corner_badge.png",
+    "scene_prompt": "the book resting on a garage floor mat, a canvas tool belt nearby, warm golden hour light, modern and minimal atmosphere.",
+    "category": "workshop",
+    "caption": "MORE USEFUL THAN THE LUMBER YARD GUY.",
+    "style": "corner_badge",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 382,
+    "filename": "b3-382-ribbon.png",
+    "scene_prompt": "the book resting on a porch swing cushion, a yellow hard hat nearby, cozy evening lamp light, clean and orderly composition.",
+    "category": "outdoor",
+    "caption": "HOMEWORK FOR THE HOME YOU'RE BUILDING.",
+    "style": "ribbon",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 383,
+    "filename": "b3-383-side_bar.png",
+    "scene_prompt": "the book resting on a wooden staircase step, a calculator nearby, soft morning window light, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "FROM FRAMING TO FINISH, ONE BOOK.",
+    "style": "side_bar",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 384,
+    "filename": "b3-384-color_block.png",
+    "scene_prompt": "the book resting on a picnic table, a notepad and pen nearby, warm desk lamp light, clean and orderly composition.",
+    "category": "outdoor",
+    "caption": "READ IT BEFORE THE FIRST DELIVERY ARRIVES.",
+    "style": "color_block",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 385,
+    "filename": "b3-385-stat_callout.png",
+    "scene_prompt": "the book resting on a metal toolbox lid, a canvas tool belt nearby, natural daylight through a garage door, clean and orderly composition.",
+    "category": "workshop",
+    "caption": "MEASURE TWICE. READ FIRST.",
+    "style": "stat_callout",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 386,
+    "filename": "b3-386-review_badge.png",
+    "scene_prompt": "the book resting on a laundry room shelf, a thermos nearby, warm desk lamp light, shallow depth of field, blurred background.",
+    "category": "home",
+    "caption": "WEEKEND PROJECTS START HERE.",
+    "style": "review_badge",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 387,
+    "filename": "b3-387-checklist.png",
+    "scene_prompt": "the book resting on a laundry room shelf, a wooden pencil nearby, blue hour dusk light, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "RIDES ALONG TO EVERY JOBSITE.",
+    "style": "checklist",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 388,
+    "filename": "b3-388-sticky_note.png",
+    "scene_prompt": "the book resting on a front door mat, a calculator nearby, blue hour dusk light, shallow depth of field, blurred background.",
+    "category": "outdoor",
+    "caption": "THE GUIDE BEHIND THE FINISHED KITCHEN.",
+    "style": "sticky_note",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 389,
+    "filename": "b3-389-double_banner.png",
+    "scene_prompt": "the book resting on a plywood sawhorse table, a hammer nearby, warm desk lamp light, shallow depth of field, blurred background.",
+    "category": "jobsite",
+    "caption": "PACKED WITH THE REST OF YOUR TOOLS.",
+    "style": "double_banner",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 390,
+    "filename": "b3-390-circle_badge.png",
+    "scene_prompt": "the book resting on a truck tailgate, a cordless drill nearby, warm desk lamp light, rustic and lived-in atmosphere.",
+    "category": "jobsite",
+    "caption": "STOP GUESSING.",
+    "style": "circle_badge",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 391,
+    "filename": "b3-391-guarantee_seal.png",
+    "scene_prompt": "the book resting on a outdoor bench, a pair of work boots nearby, dramatic warm side lighting, cozy and warm atmosphere.",
+    "category": "outdoor",
+    "caption": "BUILD WITH CONFIDENCE.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 392,
+    "filename": "b3-392-hero_quote.png",
+    "scene_prompt": "the book resting on a fireplace mantel, a small potted plant nearby, dramatic warm side lighting, clean and orderly composition.",
+    "category": "home",
+    "caption": "THE ONLY GUIDE YOU'LL NEED.",
+    "style": "hero_quote",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 393,
+    "filename": "b3-393-bottom.png",
+    "scene_prompt": "the book resting on a plywood sawhorse table, a notepad and pen nearby, warm golden hour light, rustic and lived-in atmosphere.",
+    "category": "jobsite",
+    "caption": "TIRED OF GUESSING WHAT'S NEXT?",
+    "style": "bottom",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 394,
+    "filename": "b3-394-top_banner.png",
+    "scene_prompt": "the book resting on a living room coffee table, a claw hammer and chalk line nearby, warm golden hour light, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "DON'T START WITHOUT IT.",
+    "style": "top_banner",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 395,
+    "filename": "b3-395-corner_badge.png",
+    "scene_prompt": "the book resting on a laundry room shelf, a steaming cup of coffee nearby, soft afternoon light, modern and minimal atmosphere.",
+    "category": "home",
+    "caption": "THE MANUAL YOUR CONTRACTOR DOESN'T WANT YOU TO HAVE.",
+    "style": "corner_badge",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 396,
+    "filename": "b3-396-ribbon.png",
+    "scene_prompt": "the book resting on a stack of plywood sheets, a rolled-up tape measure nearby, dramatic warm side lighting, clean and orderly composition.",
+    "category": "jobsite",
+    "caption": "YOU ONLY NEED ONE.",
+    "style": "ribbon",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 397,
+    "filename": "b3-397-side_bar.png",
+    "scene_prompt": "the book resting on a driveway concrete, a calculator nearby, soft morning window light, rustic and lived-in atmosphere.",
+    "category": "jobsite",
+    "caption": "KNOW THE BUILD BEFORE THE BUILD STARTS.",
+    "style": "side_bar",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 398,
+    "filename": "b3-398-color_block.png",
+    "scene_prompt": "the book resting on a porch swing cushion, a stainless steel travel mug nearby, soft afternoon light, modern and minimal atmosphere.",
+    "category": "outdoor",
+    "caption": "THE FIRST FIFTY PAGES CHANGE HOW YOU SEE THE JOB.",
+    "style": "color_block",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 399,
+    "filename": "b3-399-stat_callout.png",
+    "scene_prompt": "the book resting on a picnic table, a box of screws nearby, soft morning window light, clean and orderly composition.",
+    "category": "outdoor",
+    "caption": "OWNER-BUILDERS PASS THIS ONE AROUND.",
+    "style": "stat_callout",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 400,
+    "filename": "b3-400-review_badge.png",
+    "scene_prompt": "the book resting on a laundry room shelf, a stainless steel travel mug nearby, warm golden hour light, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "A LABELED DIAGRAM AT NEARLY EVERY STEP.",
+    "style": "review_badge",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 401,
+    "filename": "b3-401-checklist.png",
+    "scene_prompt": "the book resting on a metal toolbox lid, light sawdust scattered nearby nearby, soft morning window light, professional and organized atmosphere.",
+    "category": "workshop",
+    "caption": "WRITTEN IN THE ORDER HOUSES GET BUILT.",
+    "style": "checklist",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 402,
+    "filename": "b3-402-sticky_note.png",
+    "scene_prompt": "the book resting on a fireplace mantel, a cordless drill nearby, soft afternoon light, cozy and warm atmosphere.",
+    "category": "home",
+    "caption": "700 PAGES. ONE SEQUENCE. FOUNDATION TO FINISH.",
+    "style": "sticky_note",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 403,
+    "filename": "b3-403-double_banner.png",
+    "scene_prompt": "the book resting on a scaffolding plank, a stainless steel travel mug nearby, cozy evening lamp light, professional and organized atmosphere.",
+    "category": "jobsite",
+    "caption": "THE JOBSITE ANSWER, BEFORE THE JOBSITE QUESTION.",
+    "style": "double_banner",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 404,
+    "filename": "b3-404-circle_badge.png",
+    "scene_prompt": "the book resting on a wheelbarrow edge, a level tool nearby, warm desk lamp light, clean and orderly composition.",
+    "category": "jobsite",
+    "caption": "QUESTION THE QUOTE. UNDERSTAND EVERY LINE.",
+    "style": "circle_badge",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 405,
+    "filename": "b3-405-guarantee_seal.png",
+    "scene_prompt": "the book resting on a granite countertop, a set of house keys nearby, soft morning window light, modern and minimal atmosphere.",
+    "category": "home",
+    "caption": "CATCH THE SHORTCUT BEFORE THE WALLS CLOSE.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 406,
+    "filename": "b3-406-hero_quote.png",
+    "scene_prompt": "the book resting on a fireplace mantel, a wooden pencil nearby, warm desk lamp light, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "THE REFERENCE THAT STAYS ON THE BENCH.",
+    "style": "hero_quote",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 407,
+    "filename": "b3-407-bottom.png",
+    "scene_prompt": "the book resting on a car passenger seat, a steaming cup of coffee nearby, soft morning window light, shallow depth of field, blurred background.",
+    "category": "vehicle",
+    "caption": "FOUNDATION TO FINISH, IN ORDER.",
+    "style": "bottom",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 408,
+    "filename": "b3-408-top_banner.png",
+    "scene_prompt": "the book resting on a truck tailgate, a level tool nearby, overcast diffused daylight, shallow depth of field, blurred background.",
+    "category": "jobsite",
+    "caption": "NOT A TUTORIAL FOLDER. A COMPLETE SEQUENCE.",
+    "style": "top_banner",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 409,
+    "filename": "b3-409-corner_badge.png",
+    "scene_prompt": "the book resting on a kitchen counter, a steaming cup of coffee nearby, cozy evening lamp light, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "THE BOOK THAT REPLACED 312 SAVED VIDEOS.",
+    "style": "corner_badge",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 410,
+    "filename": "b3-410-ribbon.png",
+    "scene_prompt": "the book resting on a wooden staircase step, a small potted plant nearby, bright midday sun, professional and organized atmosphere.",
+    "category": "home",
+    "caption": "THE PLAN BEFORE THE POUR.",
+    "style": "ribbon",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 411,
+    "filename": "b3-411-side_bar.png",
+    "scene_prompt": "the book resting on a folding camp chair armrest, a cordless drill nearby, overcast diffused daylight, cozy and warm atmosphere.",
+    "category": "outdoor",
+    "caption": "EVERY PHASE. COVERED.",
+    "style": "side_bar",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 412,
+    "filename": "b3-412-color_block.png",
+    "scene_prompt": "the book resting on a car passenger seat, a pair of work boots nearby, blue hour dusk light, professional and organized atmosphere.",
+    "category": "vehicle",
+    "caption": "BUILT FOR PEOPLE WHO SHOW UP EVERY DAY.",
+    "style": "color_block",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 413,
+    "filename": "b3-413-stat_callout.png",
+    "scene_prompt": "the book resting on a plywood sawhorse table, a tape dispenser nearby, warm desk lamp light, shallow depth of field, blurred background.",
+    "category": "jobsite",
+    "caption": "READ IT BEFORE YOU BREAK GROUND.",
+    "style": "stat_callout",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 414,
+    "filename": "b3-414-review_badge.png",
+    "scene_prompt": "the book resting on a laundry room shelf, a claw hammer and chalk line nearby, cozy evening lamp light, clean and orderly composition.",
+    "category": "home",
+    "caption": "START YOUR DAY WHERE THE BUILD STARTS.",
+    "style": "review_badge",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 415,
+    "filename": "b3-415-checklist.png",
+    "scene_prompt": "the book resting on a nightstand, a rolled-up tape measure nearby, soft afternoon light, rustic and lived-in atmosphere.",
+    "category": "home",
+    "caption": "ONE RUNG AT A TIME. ONE CHAPTER AT A TIME.",
+    "style": "checklist",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 416,
+    "filename": "b3-416-sticky_note.png",
+    "scene_prompt": "the book resting on a living room coffee table, a wooden pencil nearby, dramatic warm side lighting, modern and minimal atmosphere.",
+    "category": "home",
+    "caption": "KNOW THE NUMBERS BEFORE THEY KNOW YOU DON'T.",
+    "style": "sticky_note",
+    "awareness_stage": "Unaware"
+  },
+  {
+    "index": 417,
+    "filename": "b3-417-double_banner.png",
+    "scene_prompt": "the book resting on a laundry room shelf, a level tool nearby, blue hour dusk light, cozy and warm atmosphere.",
+    "category": "home",
+    "caption": "LUNCH BREAK READING THAT PAYS OFF.",
+    "style": "double_banner",
+    "awareness_stage": "Problem-aware"
+  },
+  {
+    "index": 418,
+    "filename": "b3-418-circle_badge.png",
+    "scene_prompt": "the book resting on a ladder rung, a wooden pencil nearby, dramatic warm side lighting, clean and orderly composition.",
+    "category": "workshop",
+    "caption": "PACK IT LIKE A TOOL. USE IT LIKE ONE.",
+    "style": "circle_badge",
+    "awareness_stage": "Solution-aware"
+  },
+  {
+    "index": 419,
+    "filename": "b3-419-guarantee_seal.png",
+    "scene_prompt": "the book resting on a ladder rung, a stack of clean folded rags nearby, bright midday sun, clean and orderly composition.",
+    "category": "workshop",
+    "caption": "THE BOOK THAT GOT US HERE.",
+    "style": "guarantee_seal",
+    "awareness_stage": "Product-aware"
+  },
+  {
+    "index": 420,
+    "filename": "b3-420-hero_quote.png",
+    "scene_prompt": "the book resting on a wooden staircase step, a steaming cup of coffee nearby, warm golden hour light, clean and orderly composition.",
+    "category": "home",
+    "caption": "SKIP THE FORUMS. READ THE BOOK.",
+    "style": "hero_quote",
+    "awareness_stage": "Most-aware"
+  },
+  {
+    "index": 421,
+    "filename": "b3-421-bottom.png",
+    "scene_prompt": "the book resting on a wooden desk, a cordless drill nearby, bright midday sun, rustic and lived-in atmosphere.",
+    "category": "office",
+    "caption": "WHERE THE ANSWERS ACTUALLY LIVE.",
+    "style": "bottom",
+    "awareness_stage": "Unaware"
+  }
+]
